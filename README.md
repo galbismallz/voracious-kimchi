@@ -5,8 +5,6 @@ a testing of sorts
 ([photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
 
 # [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
-
 
 **Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
 
@@ -17,6 +15,8 @@ We kicked off the first project meeting with…around 20 people! We rallied arou
 With the amount of people we had working on that project, it’s a miracle anything got finished. It was a fun ride, though!
 
 **Project Leads**: @trion, the Emoji-Sensai himself!
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
 
 # [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
