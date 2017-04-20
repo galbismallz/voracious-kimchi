@@ -7,7 +7,22 @@ a testing of sorts
 This README is like one of those Indiana Jones jungle temples, filled with tales of interesting challenges and mysterious repos from the Chingu ecosystem.
 It’s a tangled exciting jungle of remote dev collaborations, you could say.
 
-# 5. [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
+## [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
+
+**Project Description**: Project Management Site for the Game-Dev Project
+
+**Project Story**: So… @kimkwanka reached out to ask if she could make a game-development project, and I replied that that would be wonderful!
+
+Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there was 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented.
+
+At the time of writing the projects just kicked off… what.a.time.to.be.alive!
+
+**Project Leads**: @kimkwanka
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
+
+
+# 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
 **Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
 
@@ -22,7 +37,7 @@ With the amount of people we had working on that project, it’s a miracle anyth
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
 
-# [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
+# 4 -> [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
 **Project Description**: A word-of-the-day chrome extension, with a focus on minimalist design and beautiful backgrounds. It can be freely downloaded in the Google Chrome webstore.
 
