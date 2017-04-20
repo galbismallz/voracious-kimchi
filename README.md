@@ -8,7 +8,11 @@ This README is like one of those Indiana Jones jungle temples, filled with tales
 
 It’s a tangled jungle of remote dev collaborations. 
 
-This projects playlist is a living and ever-growing ode to people coming together to learn and build together. Each project represents strangers from across the world who came together to create something. 
+This projects playlist is a living and ever-growing ode to people coming together to learn and build. Each project represents strangers from across the world who came together to create something.
+
+The moonshot? 1000 projects to this list by 2020. 
+
+We live, we learn, we build. 
 
 
 
