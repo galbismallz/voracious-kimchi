@@ -18,7 +18,6 @@ Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there 
 At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Leads**: @kimkwanka
-
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
 
 
