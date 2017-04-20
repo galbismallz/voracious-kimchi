@@ -6,16 +6,16 @@ a testing of sorts
 
 # [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
-Project Description: A word-of-the-day chrome extension, with a focus on minimalist design and beautiful backgrounds. It can be freely downloaded in the Google Chrome webstore.
+**Project Description**: A word-of-the-day chrome extension, with a focus on minimalist design and beautiful backgrounds. It can be freely downloaded in the Google Chrome webstore.
 
-Project Story: This project was a pivot inspired by the first build.to.learn project team l-emi was in (though we weren’t calling it build.to.learn then). The Momentum project team she was involved in didn’t end up finishing, but it ended up inspiring someone to create something else, which as you’ll see is a fairly common with the Momentum project.
+**Project Story**: This project was a pivot inspired by the first build.to.learn project team l-emi was in (though we weren’t calling it build.to.learn then). The Momentum project team she was involved in didn’t end up finishing, but it ended up inspiring someone to create something else, which as you’ll see is a fairly common with the Momentum project.
 
-Publication: 
-Part 1: How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension
+**Publication**: 
+*Part 1*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-1-a5ef87134e85)
 
-Part 2: How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension 
+*Part 2*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-2-71026debc282) 
 
-Project Leads: @l-emi
+**Project Leads**: @l-emi
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/adventures3.png?alt=media&token=8454b69f-5e02-4720-b4de-db7057f8ad6a "Optional title")
 
