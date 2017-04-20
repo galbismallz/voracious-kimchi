@@ -1,6 +1,9 @@
 # voracious-kimchi
 a testing of sorts
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/journeys1.png?alt=media&token=151df684-536c-4557-ad5d-e27a951628c4 "Optional title")
+(photo cred: Zoltán Vörös)
+
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/adventures3.png?alt=media&token=8454b69f-5e02-4720-b4de-db7057f8ad6a "Optional title")
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/adventures.png?alt=media&token=50bf3917-93ac-49a3-83fd-b82f7090daea "Optional title")
