@@ -4,6 +4,19 @@ a testing of sorts
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/journeys1.png?alt=media&token=151df684-536c-4557-ad5d-e27a951628c4 "Optional title")
 ([photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
 
+# [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
+
+**Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
+
+**Project Story**: This project started out as a little seed of an idea based on a resource someone posted in the #general chat, and grew into a wild jungle of an adventure with people from damned near every continent working together to build a classic arcade game…WHAT?! (ya I know, we’re not normal ;p)
+ 
+We kicked off the first project meeting with…around 20 people! We rallied around one version of the game and collectively managed to get a features list set and loaded up in Trello (project management tool). Those features were translated into tasks and we formed pairs to work on the tasks.
+
+With the amount of people we had working on that project, it’s a miracle anything got finished. It was a fun ride, though!
+
+**Project Leads**: @trion, the Emoji-Sensai himself!
+
+
 # [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
 **Project Description**: A word-of-the-day chrome extension, with a focus on minimalist design and beautiful backgrounds. It can be freely downloaded in the Google Chrome webstore.
