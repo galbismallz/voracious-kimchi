@@ -1,4 +1,4 @@
-# voracious-kimchi
+# 친구 adventures
 a testing of sorts
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/journeys1.png?alt=media&token=151df684-536c-4557-ad5d-e27a951628c4 "Optional title")
@@ -10,7 +10,7 @@ a testing of sorts
 
 **Project Story**: This project was a pivot inspired by the first build.to.learn project team l-emi was in (though we weren’t calling it build.to.learn then). The Momentum project team she was involved in didn’t end up finishing, but it ended up inspiring someone to create something else, which as you’ll see is a fairly common with the Momentum project.
 
-**Publication**: 
+**Publication(s)** <br> 
 *Part 1*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-1-a5ef87134e85)
 
 *Part 2*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-2-71026debc282) 
