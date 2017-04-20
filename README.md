@@ -5,7 +5,12 @@ a testing of sorts
 ([photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
 
 This README is like one of those Indiana Jones jungle temples, filled with tales of interesting challenges and mysterious repos from the Chingu ecosystem.
-It’s a tangled exciting jungle of remote dev collaborations, you could say.
+
+It’s a tangled jungle of remote dev collaborations. 
+
+This projects playlist is a living and ever-growing ode to people coming together to learn and build together. Each project represents strangers from across the world who came together to create something. 
+
+
 
 ## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
 
