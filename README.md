@@ -14,7 +14,215 @@ The moonshot? 1000 projects to this list by 2020.
 
 We live, we learn, we build. 
 
+## 48 -> [PROJECT]() 
 
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 47 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 46 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 45 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 44 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 43 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 42 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 41 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 40 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 39 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 38 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 37 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 36 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 35 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 34 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 33 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 32 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 31 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 30 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 29 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 28 -> [PROJECT]() 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
 
 ## 27 -> [PROJECT]() 
 
