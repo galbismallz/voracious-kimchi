@@ -495,15 +495,18 @@ We live, we learn, we build.
 **Project Leads**: 
 
 
-## 1 -> [PROJECT]() 
+## 1 -> [Chingu cohorts](https://chingu-cohorts.github.io/chingu-directory/)
 
-**Project Description**: 
+**Project Description**:
 
-**Project Story**:
+**Project Story**: I'd just made what was an extremely difficult decision (at the time) to pull out of a coding bootcamp. I was going to code full time using FCC and other online resources. I enjoyed the group vibe in the bootcamp precourse so I put a call out in the FreeCodeCamp forum. I was hoping at least 10 or so people would respond to it. About 25 people did, and off we went.
 
-**Publication(s)** <br> 
+**Publication(s)** <br>
+https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470
+other forum posts? (gsux, ali)
+potentially other medium posts as well? 
 
-**Project Leads**: 
+**Project Leads**:
 
 
 ## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
