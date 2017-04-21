@@ -6,7 +6,7 @@ A project voyage.
 
 This README is like one of those Indiana Jones jungle temples, filled with tales of learning quests and mysterious repos from the Chingu ecosystem.
 
-It’s a tangled jungle of remote dev collaborations. 
+It’s a tangled treasure-trove of remote dev collaborations. 
 
 This projects playlist is a living and ever-growing ode to people coming together to learn and build. Each project represents strangers from across the world who came together to create something.
 
