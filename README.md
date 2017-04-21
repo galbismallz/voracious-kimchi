@@ -484,18 +484,24 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 2 -> [PROJECT]() 
+## 2 -> [Patakey Sound app](https://jadczakd.github.io/patakeyboard/) 
 
-**Project Description**: 
+**Project Description**:
 
-**Project Story**:
+**Project Story**: This project holds a dear spot in my heart of hearts. At this point Chingu consisted of maybe 3 cohorts (Raccoons, Foxes, Rhinos). Around this time, @jadczakd was just on fire in the cohorts. He was right into the mix learning every day, ignighting discussions and code chats left and right. This man used to involved in the circus - he's got a firey spirit and can juggle like no one's business. 
+
+He'd been working on the patakey app for awhile, and if I recall there was some kind of discussion between him and @vin16 about the app (vin's used to be a hip hop beat maker). 
+
+Anyways, @jadczakd dropped the Patakey project on the FCC forum for a little review and what happened next had me feeling pretty damned inspired. Another member in a different cohort saw his post, and was moved enough that he posted it in his cohort saying something along the lines of "now THIS is inspiring." He had no idea the creator was in another cohort. I just about lost it! It was one of the first times I witnessed first hand the power of how action inspires more action. When we build, we build to learn, but in the right context, we can inspire others to strive for more as well. 
+
+So, the Patakey app wasn't a team project, but it demands a place on this list nonetheless. 
 
 **Publication(s)** <br> 
-
+[FCC Forum post for review](https://forum.freecodecamp.com/t/sound-table-app-outside-of-fcc-curriculum-review-please/46311)
 **Project Leads**: 
 
 
-## 1 -> [Chingu cohorts](https://chingu-cohorts.github.io/chingu-directory/)
+## 1 -> [Chingu cohorts begin](https://chingu-cohorts.github.io/chingu-directory/)
 
 **Project Description**:
 
