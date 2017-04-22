@@ -346,7 +346,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 15 -> [Pair-board] (http://pairboard.surge.sh/) 
+## 15 -> [Pair-board](http://pairboard.surge.sh/) 
 
 **Project Description**: 
 
