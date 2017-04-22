@@ -1,4 +1,4 @@
-# Chingu (친구) adventures
+# 친구 dev adventures
 A project voyage. 
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/journeys1.png?alt=media&token=151df684-536c-4557-ad5d-e27a951628c4 "Optional title")
