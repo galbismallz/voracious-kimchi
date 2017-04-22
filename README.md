@@ -354,7 +354,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 14 -> [PROJECT]() 
+## 14 -> [Chuzzlehunt Need link](#) 
 
 **Project Description**: 
 
@@ -364,7 +364,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 13 -> [PROJECT]() 
+## 13 -> [Kornil's Favicons begin](https://github.com/Kornil/Red-Panda-FCC-Favicon) 
 
 **Project Description**: 
 
@@ -374,7 +374,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 12 -> [PROJECT]() 
+## 12 -> Florinpop's wild week 
 
 **Project Description**: 
 
@@ -384,7 +384,17 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 11 -> [PROJECT]() 
+## 11 -> [Pear](https://github.com/mmhansen/pear) 
+
+**Project Description**: 
+
+**Project Story**: This project put mmhansen on the map! He got a job out of this practically! 
+
+**Publication(s)** <br> 
+
+**Project Leads**: 
+
+## 10 -> [Rhinos Space Shooter](http://trion.me/Space-Shooter/) 
 
 **Project Description**: 
 
@@ -394,7 +404,27 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 10 -> [PROJECT]() 
+## 9 -> [Momentum (sparta & gang)](http://rawgit.com/Bigghead/Momentum-Clone/master/index.html) 
+
+**Project Description**: 
+
+**Project Story**:Lotta learning here 
+
+**Publication(s)** <br> 
+
+**Project Leads**: 
+
+## 8 -> Campfire Stories Version 1 
+
+**Project Description**: 
+
+**Project Story**: "this is why I code" comment on the forum post
+
+**Publication(s)** <br> 
+
+**Project Leads**: 
+
+## 7 -> Campfire stories' logo 
 
 **Project Description**: 
 
@@ -404,7 +434,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 9 -> [PROJECT]() 
+## 6 -> [The Weekly Update is born](https://medium.com/chingu/chingu-weekly-vol-20-71c061968fc7) 
 
 **Project Description**: 
 
@@ -414,7 +444,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 8 -> [PROJECT]() 
+## 6 -> [Chingu Youtube Channel aka @mmhansen's tutorial fiesta](https://www.youtube.com/watch?v=wwrd-JCOzd4) 
 
 **Project Description**: 
 
@@ -424,7 +454,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 7 -> [PROJECT]() 
+## 5 -> [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
 **Project Description**: 
 
@@ -434,7 +464,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 6 -> [PROJECT]() 
+## 4 -> [Resources Buffet](https://trello.com/b/qwafTxsu/resource1) 
 
 **Project Description**: 
 
@@ -444,37 +474,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 6 -> [PROJECT]() 
-
-**Project Description**: 
-
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 5 -> [PROJECT]() 
-
-**Project Description**: 
-
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 4 -> [PROJECT]() 
-
-**Project Description**: 
-
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 3 -> [PROJECT]() 
+## 3 -> [Image Filter (pair-programming festival creation)](http://codepen.io/trion/full/bwraZp) 
 
 **Project Description**: 
 
