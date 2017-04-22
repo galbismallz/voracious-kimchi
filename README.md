@@ -15,8 +15,18 @@ This projects playlist is a living and ever-growing ode to people coming togethe
 The moonshot? 1000 projects to this list by 2020. 
 
 We live, we learn, we build. 
+ 
+## 50 -> [SoundReact Soundcloud reverse-engineering](http://soundreact.surge.sh/) 
 
-## 48 -> [PROJECT]() 
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:(Mahaveer's app with Vera)
+
+## 50 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
 **Project Description**: 
 
@@ -26,7 +36,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 47 -> [PROJECT]() 
+## 50 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
 
 **Project Description**: 
 
@@ -36,7 +46,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 46 -> [PROJECT]() 
+## 50 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orbMalcolm-bot (Bot-splashPage-Team-12)) 
 
 **Project Description**: 
 
@@ -46,7 +56,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 45 -> [PROJECT]() 
+## 50 -> Design Monks Collective 
 
 **Project Description**: 
 
@@ -56,7 +66,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 44 -> [PROJECT]() 
+## 50 -> [Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
 
 **Project Description**: 
 
@@ -66,7 +76,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 43 -> [PROJECT]() 
+## 49 -> [FCC Speedrun vol. 2 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
 **Project Description**: 
 
@@ -76,7 +86,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 42 -> [PROJECT]() 
+## 48 -> [Who-bot](https://whobot.herokuapp.com/) 
 
 **Project Description**: 
 
@@ -86,7 +96,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 41 -> [PROJECT]() 
+## 47 -> [Team Splash-Master paypal bot landing page clone](https://andbostick.github.io/) 
 
 **Project Description**: 
 
@@ -96,7 +106,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 40 -> [PROJECT]() 
+## 46 -> [Dork trivia bot](https://antonderegt.github.io/roxean-bot-landing-page/) 
 
 **Project Description**: 
 
@@ -106,7 +116,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 39 -> [PROJECT]() 
+## 45 -> [Ode to Numbers bot](https://rhubarb-pie-22231.herokuapp.com/) 
 
 **Project Description**: 
 
@@ -116,7 +126,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 38 -> [PROJECT]() 
+## 44 -> [Hypnoyanova bot](https://github.com/triple-botspresso/trivia-bot) 
 
 **Project Description**: 
 
@@ -126,7 +136,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 37 -> [PROJECT]() 
+## 43 -> [Tariel + Tom Momentum](https://github.com/tlcodes/NewTab) 
 
 **Project Description**: 
 
@@ -136,7 +146,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 36 -> [PROJECT]() 
+## 42 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
 
 **Project Description**: 
 
@@ -146,7 +156,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 35 -> [PROJECT]() 
+## 41 -> [JSY - a Javascript QnA AI bot landing page ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
 
 **Project Description**: 
 
@@ -156,7 +166,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 34 -> [PROJECT]() 
+## 40 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
 
 **Project Description**: 
 
@@ -166,7 +176,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 33 -> [PROJECT]() 
+## 39 -> [Team Morning Bunch's Reddit bot](https://github.com/jrepe/reddit_bot) 
 
 **Project Description**: 
 
@@ -176,7 +186,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 32 -> [PROJECT]() 
+## 38 -> [Zambabot](https://zamba9.github.io/ZambaBot/) 
 
 **Project Description**: 
 
@@ -186,7 +196,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 31 -> [PROJECT]() 
+## 37 -> [THREE BEARS splash page](https://github.com/fcontreras18/three-bears-splash-page) 
 
 **Project Description**: 
 
@@ -196,7 +206,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 30 -> [PROJECT]() 
+## 36 -> [Code O' Clock](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
 
 **Project Description**: 
 
@@ -206,7 +216,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 29 -> [PROJECT]() 
+## 35 -> [Paypal slack landing page reverse engineering](https://github.com/bigyankarki/PayPal-Splash-Page) 
 
 **Project Description**: 
 
@@ -216,7 +226,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 28 -> [PROJECT]() 
+## 34 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
 
 **Project Description**: 
 
@@ -226,7 +236,67 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 27 -> [PROJECT]() 
+## 33 -> [Timed-up landing page and slack bot integration](https://timedupchingu.herokuapp.com/splash) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 32 -> [Pengo bot](https://pengo.herokuapp.com/) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 31 -> [Kim's Game-dev Project Management Temple](https://chingu-game-dev.herokuapp.com/) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 30 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 29 -> [Timed-up web-app](https://timedupchingu.herokuapp.com/login) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 28 -> Chingu's logo by Kenneth 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**:
+
+## 27 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
 
 **Project Description**: 
 
@@ -236,7 +306,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 26 -> [PROJECT]() 
+## 26 -> [Sundial](https://sundialapp.herokuapp.com/) 
 
 **Project Description**: 
 
@@ -244,7 +314,7 @@ We live, we learn, we build.
 
 **Publication(s)** <br> 
 
-**Project Leads**: 
+**Project Leads**: @nionata
 
 ## 25 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
 
@@ -253,8 +323,10 @@ We live, we learn, we build.
 **Project Story**:
 
 **Publication(s)** <br> 
+@vera detailed this adventured in her articled called [MDNBot coding journey](https://medium.com/chingu/mdnbot-coding-journey-b20316a88163)
 
-MDNbot is [showcased on the claudia-bot-builder repo!](https://github.com/claudiajs/claudia-bot-builder) 
+MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/claudiajs/claudia-bot-builder) 
+
 **Project Leads**: 
 
 ## 24 -> [Hangman](https://alannal.github.io/Hangman/) 
