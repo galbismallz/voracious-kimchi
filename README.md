@@ -326,7 +326,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 17 -> [PROJECT]() 
+## 17 -> ChinguSort
 
 **Project Description**: 
 
@@ -336,7 +336,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 16 -> [PROJECT]() 
+## 16 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
 
 **Project Description**: 
 
@@ -346,7 +346,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 15 -> [PROJECT]() 
+## 15 -> [Pair-board] (http://pairboard.surge.sh/) 
 
 **Project Description**: 
 
@@ -354,7 +354,7 @@ We live, we learn, we build.
 
 **Publication(s)** <br> 
 
-**Project Leads**: 
+**Project Leads**: jbates
 
 ## 14 -> [Chuzzlehunt Need link](#) 
 
