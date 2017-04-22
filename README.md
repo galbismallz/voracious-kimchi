@@ -46,7 +46,7 @@ We live, we learn, we build.
 
 **Project Leads**:
 
-## 50 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orbMalcolm-bot (Bot-splashPage-Team-12)) 
+## 50 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
 **Project Description**: 
 
