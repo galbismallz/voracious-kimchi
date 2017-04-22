@@ -246,7 +246,18 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 25 -> [PROJECT]() 
+## 25 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+MDNbot is [showcased on the claudia-bot-builder repo!](https://github.com/claudiajs/claudia-bot-builder) 
+**Project Leads**: 
+
+## 24 -> [Hangman](https://alannal.github.io/Hangman/) 
 
 **Project Description**: 
 
@@ -256,7 +267,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 24 -> [PROJECT]() 
+## 23 -> [Chingu FCC Speedrun Challenge vol. 1 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
 **Project Description**: 
 
@@ -266,7 +277,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 23 -> [PROJECT]() 
+## 22 -> [Lion-bot](https://lion-bot.herokuapp.com/) 
 
 **Project Description**: 
 
@@ -276,7 +287,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 22 -> [PROJECT]() 
+## 21 -> [Dev-Dash](https://chrome.google.com/webstore/detail/dev-dash/dgkmjidcaelocfmnhlmeimmbaljgjfhm) 
 
 **Project Description**: 
 
@@ -286,7 +297,17 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 21 -> [PROJECT]() 
+## 20 -> P1XT Study Guides Support Groups formed 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**: @rob + ??? 
+
+## 19 -> [Chingography](https://github.com/mmhansen/chingogprahy) 
 
 **Project Description**: 
 
@@ -296,27 +317,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 20 -> [PROJECT]() 
-
-**Project Description**: 
-
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 19 -> [PROJECT]() 
-
-**Project Description**: 
-
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 18 -> [PROJECT]() 
+## 18 -> [Momentum Belcurv & gang](https://general-meerkats.github.io/meerkat_momentum/) 
 
 **Project Description**: 
 
@@ -334,7 +335,7 @@ We live, we learn, we build.
 
 **Publication(s)** <br> 
 
-**Project Leads**: 
+**Project Leads**: @trion
 
 ## 16 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
 
@@ -356,7 +357,7 @@ We live, we learn, we build.
 
 **Project Leads**: jbates
 
-## 14 -> [Chuzzlehunt Need link](#) 
+## 14 -> [Chuzzlehunt Need link - NEED LINK](#) 
 
 **Project Description**: 
 
@@ -384,7 +385,18 @@ We live, we learn, we build.
 
 **Publication(s)** <br> 
 
-**Project Leads**: 
+**Project Leads**: @florinpop, @meerkats who brought that motivational fuel!
+
+## 222322 -> [User-name Generator](http://trion.me/CodingChallenges/Tools/UsernameGenerator/) 
+
+**Project Description**: 
+
+**Project Story**:
+
+**Publication(s)** <br> 
+
+**Project Leads**: @trion, @sagark
+
 
 ## 11 -> [Pear](https://github.com/mmhansen/pear) 
 
@@ -436,7 +448,7 @@ We live, we learn, we build.
 
 **Project Leads**: 
 
-## 6 -> [The Weekly Update is born](https://medium.com/chingu/chingu-weekly-vol-20-71c061968fc7) 
+## 345336 -> [The Weekly Update is born](https://medium.com/chingu/chingu-weekly-vol-20-71c061968fc7) 
 
 **Project Description**: 
 
