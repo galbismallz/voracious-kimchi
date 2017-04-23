@@ -630,15 +630,3 @@ With the amount of people we had working on that project, it’s a miracle anyth
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
 
-## 4 -> [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
-
-**Project Description**: A word-of-the-day chrome extension, with a focus on minimalist design and beautiful backgrounds. It can be freely downloaded in the Google Chrome webstore.
-
-**Project Story**: This project was a pivot inspired by the first build.to.learn project team l-emi was in (though we weren’t calling it build.to.learn then). The Momentum project team she was involved in didn’t end up finishing, but it ended up inspiring someone to create something else, which as you’ll see is a fairly common with the Momentum project.
-
-**Publication(s)** <br> 
-*Part 1*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-1-a5ef87134e85)
-
-*Part 2*: [How to code a Word of the Day app in JavaScript, and turn it into a Chrome Extension](https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-2-71026debc282) 
-
-**Project Leads**: @l-emi
