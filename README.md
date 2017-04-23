@@ -428,7 +428,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 **Publication(s)** <br> 
 [FREECODECAMP forum post: Honour roll](https://forum.freecodecamp.com/t/pairboard-the-honour-roll/63442)
 
-Also, check out this fantastic video tutorial @jacksonbates did 
+Also, check out this fantastic video tutorial @jacksonbates did called ["Your First Github Pull Request"](https://www.youtube.com/watch?v=dSl_qnWO104). 
 
 **Project Leads**: @jacksonbates, (see link below for the full honour roll!)
 
