@@ -24,7 +24,16 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 Project story: Seeing this project for the first time was took me back to riding down a waterfall in an Indonesian jungle-- the excitement level was that high. 
 
- 
+## 50 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
+
+**Project Description**:  
+
+**Project Story**: 
+
+**Project Leads**: @mtso
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
+  
 ## 50 -> [SoundReact](http://soundreact.surge.sh/) 
 
 **Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
