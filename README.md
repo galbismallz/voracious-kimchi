@@ -63,6 +63,8 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: Kenneth Amanfo Junior (@amanfojr)
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FWeareORB.png?alt=media&token=548993d7-d1a2-4ac5-bfd4-730ceeaa7099 "Optional title")
+
 ## 50 -> Design Monks Collective 
 
 **Project Description**: A design learning collective/ support group inside the Chingu cohorts. 
@@ -271,6 +273,7 @@ Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there 
 At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Leads**: @kimkwanka
+
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
 
 ## 30 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
