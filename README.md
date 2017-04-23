@@ -73,6 +73,8 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: Kenneth Amanfo Junior (@amanfojr)
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fdesignmonkschallenge.png?alt=media&token=c5006f33-8739-44a7-899d-3db21a83845d "Optional title")
+
 ## 50 -> [Team Air-Walkers Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
 
 **Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
