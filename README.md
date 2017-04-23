@@ -540,7 +540,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 5 -> [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
-**Project Description**: 
+**Project Description**: Duma is a simple, clean word-of-the-day app. It fetches a new word and its definition everyday, and comes with a series of beautiful backgrounds provided by Unsplash. Install to expand your vocabulary and prettify your New Tab page! 
 
 **Project Story**:
 
@@ -550,27 +550,26 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 4 -> [Resources Buffet](https://trello.com/b/qwafTxsu/resource1) 
 
-**Project Description**: 
+**Project Description**: A plentiful buffet of wev-dev resources, all in one trello. Oh, and lots of turtles. ;p
 
-**Project Story**:
+**Project Story**: Imagine a refreshing waterfall. Now imagine instead of water, pouring down that waterfall was wonderful web-dev resources! That's what the #resources channel in the cohorts is like, and after awhile it can be a little too amazing. Sometimes people think: "how can I keep all of these resources?" The resources buffet was a response to that. 
 
 **Publication(s)** <br> 
+Posted in the FCC forum [here](https://forum.freecodecamp.com/t/hungry-for-resources-here-is-a-web-dev-buffet/48187). 
 
-**Project Leads**: 
+**Project Leads**: @unsui, @erretres
 
 ## 3 -> [Image Filter (pair-programming festival creation)](http://codepen.io/trion/full/bwraZp) 
 
-**Project Description**: 
+**Project Description**: This program allows you to add pictures and apply cool filters! Call it... INSTAGRAM FOR CODEPEN! ;p 
 
-**Project Story**:
+**Project Story**: This illustrious little codepen was created during a pair-programming session many moons ago!
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @kunal05, @trion 
 
 ## 2 -> [Patakey Sound app](https://jadczakd.github.io/patakeyboard/) 
 
-**Project Description**:
+**Project Description**: Patatapclone with soundtable looping. 
 
 **Project Story**: This project holds a dear spot in my heart of hearts. At this point Chingu consisted of maybe 3 cohorts (Raccoons, Foxes, Rhinos). Around this time, @jadczakd was just on fire in the cohorts. He was right into the mix learning every day, ignighting discussions and code chats left and right. This man used to involved in the circus - he's got a firey spirit and can juggle like no one's business. 
 
@@ -587,7 +586,7 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 
 ## 1 -> [Chingu cohorts begin](https://chingu-cohorts.github.io/chingu-directory/)
 
-**Project Description**:
+**Project Description**: We group motivated individuals with shared goals together to learn and build. 
 
 **Project Story**: I'd just made what was an extremely difficult decision (at the time) to pull out of a coding bootcamp. I was going to code full time using FCC and other online resources. I enjoyed the group vibe in the bootcamp precourse so I put a call out in the FreeCodeCamp forum. I was hoping at least 10 or so people would respond to it. About 25 people did, and off we went.
 
