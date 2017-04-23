@@ -452,6 +452,8 @@ Check out @trion's article on his experience called [Sorting Cohort applicants i
 
 **Project Leads**: @alecial, @oansky 
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FOansky.png?alt=media&token=e3b54b89-bc99-466c-8a3c-d39b14cda373 "Optional title")
+
 ## 15 -> [Pair-board](http://pairboard.surge.sh/) 
 
 **Project Description**: Pair programming connector for Freecodecamp. 
