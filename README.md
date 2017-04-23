@@ -511,6 +511,9 @@ No joke, people mentioned florinpop and kornil on the post-cohort survey comment
 
 **Project Leads**: @mmhansen
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fpear.png?alt=media&token=6eeb6b75-763b-420a-9e78-3503377b4d80 "Optional title")
+
+
 ## 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
 **Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
