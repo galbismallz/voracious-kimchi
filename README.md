@@ -81,6 +81,8 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: Team Air-walkers: @che-monk, @matthew_burfield
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fgifbot.png?alt=media&token=4a810de3-04fd-4c56-bd5c-a9591a146cdd "Optional title")
+
 ## 49 -> [FCC Speedrun vol. 2 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
 **Project Description**: Challenge to complete as many of the FCC Projects as you can in a 3-5 week period.
@@ -535,6 +537,8 @@ With the amount of people we had working on that project, it’s a miracle anyth
 [@alecia's article called "Initiating a conversation is terrifying"](https://medium.com/chingu/initiating-a-conversation-is-terrifying-b4dd922640b3) about her experience working on this project.
 
 **Project Leads**: @mmhansen, @codejunky, @l-emi, @alecia, @serio-cielo, and a whole lot of other people I've still got to track down... ;p 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fcampfirestories.png?alt=media&token=56a77d66-8eb1-48c0-9964-510a244ae3c2 "Optional title")
 
 ## 7 -> Campfire stories' logo 
 
