@@ -6,6 +6,17 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+
 This isn't a normal README. 
 
 This README is more like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos. 
@@ -301,7 +312,9 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: @kornil
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchinguwebsite.png?alt=media&token=ffde9cee-5275-47d6-add5-379fb0de36c4 "Optional title")
 
 ## 29 -> [Timed-up web-app](https://timedupchingu.herokuapp.com/login) 
 
