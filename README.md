@@ -474,6 +474,8 @@ Since then, it's become a tradition: new cohort = new kornil favicon!
 
 **Project Leads**: @kornil
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fanimals.png?alt=media&token=45524517-1f8a-4465-b7e2-639f854e9d5c "Optional title")
+
 ## 12 -> Florinpop's wild week 
 
 **Project Story**:The infamous Week of Florinpop back in the Meerkat days! During this week, @florinpop rampaged through what seemed like 1200 projects. In reality, he built a single player football game (x-ball), a multiplayer football game (x-ball), a chat-application and a snakemaze-type game. Oh, and he also had his multiplayer version of x-ball showcased on a famous Javascript youtube channel (in picture below).  
