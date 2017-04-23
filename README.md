@@ -416,6 +416,8 @@ I'm going to go ahead and leave @belcurv's articles inspired by his work on this
 
 **Project Leads**: @belcurv & @amdiou, @collin, @jake, @jezer, @thomas
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fbelcurvmomentum.png?alt=media&token=dce15c1b-2905-417e-9bfc-9b0f3bb91efc "Optional title")
+
 ## 17 -> ChinguSort
 
 **Project Description**: A recommendation system using Machine Learning to create optimal groupings for the Chingu cohorts. 
