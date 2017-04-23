@@ -482,6 +482,8 @@ No joke, people mentioned florinpop and kornil on the post-cohort survey comment
 
 **Project Leads**: @florinpop, @meerkats who brought that motivational fuel!
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fflorinpopsglory.png?alt=media&token=9f7b861b-6cef-4b22-85f7-ad9a27fcb75a "Optional title")
+
 ## 222322 -> [User-name Generator](http://trion.me/CodingChallenges/Tools/UsernameGenerator/) 
 
 **Project Description**: This splendid little functionality generates groovy usernames. We should probably start using this for build.to.learn team project names... ;p
