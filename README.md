@@ -15,26 +15,27 @@ This projects playlist is a living and ever-growing ode to people coming togethe
 The moonshot? 1000 projects to this list by 2020. 
 
 We live, we learn, we build. 
+
+Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress. If I've missed anything (almost guaranteed that I have), please DM me to let me know :)  
+
  
-## 50 -> [SoundReact Soundcloud reverse-engineering](http://soundreact.surge.sh/) 
+## 50 -> [SoundReact](http://soundreact.surge.sh/) 
 
-**Project Description**: 
+**Project Description**: A reverse-engineering of Soundcloud. 
 
-**Project Story**:
+**Project Story**: TBA
 
-**Publication(s)** <br> 
-
-**Project Leads**:(Mahaveer's app with Vera)
+**Project Leads**: @mahaveer 
 
 ## 50 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
-**Project Description**: 
+**Project Description**: An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension.
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: Developed by: Tan, Pankaja, Arthur (project manager) and CillianBC as part of the Chingu-Belugas.
 
 ## 50 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
 
