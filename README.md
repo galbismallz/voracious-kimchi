@@ -302,13 +302,13 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ## 28 -> Chingu's logo by Kenneth 
 
-**Project Description**: 
+**Project Description**: The cohort's new logo! 
 
-**Project Story**:
+**Project Story**: Kenneth surprised us all with this awesome logo he'd been secretly crafting. He said the the colors represent the diversity in the cohorts, the house represents the friendly family vibe, and there's a sneaky "C" in there for Chingu. 
 
-**Publication(s)** <br> 
+**Project Leads**: @amanforjr
 
-**Project Leads**:
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchingulogo.png?alt=media&token=1a1072c7-cb63-4615-9b26-54f4ca12b05a "Optional title")
 
 ## 27 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
 
@@ -322,24 +322,24 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ## 26 -> [Sundial](https://sundialapp.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: Simple session based web app that allows remote teams to find meeting availability across multiple time zones!
 
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: @nionata
+**Project Story**: 
+ 
+**Project Leads**: @nionata, shout-out to the build.to.learn momentum team who helped out on the beginning stages of this project!
 
 ## 25 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
 
-**Project Description**: 
+**Project Description**: Need to look up something on MDN quick and easy or just want to share an MDN reference with a colleague ? MDNBot has you covered. This app doesn't require any payments, doesn't send you emails and doesn't store any private user information. All you need to start using it is to install it in your Slack team.
 
-**Project Story**: 
+**Project Story**: A Build.to.learn Bots project adventure! To get the full story of this project, see @vera's article below. 
 
 **Publication(s)** <br> 
 @vera detailed this adventured in her articled called [MDNBot coding journey](https://medium.com/chingu/mdnbot-coding-journey-b20316a88163)
 
 MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/claudiajs/claudia-bot-builder) 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fmdnbot.png?alt=media&token=f47e4e72-8562-4a56-b2b4-f5880525bcc8 "Optional title")
 
 **Project Leads**: 
 
@@ -554,6 +554,8 @@ With the amount of people we had working on that project, it’s a miracle anyth
 **Project Description**: @sergio-cielo worked on the Campfire-stories design and crafted this wonderful logo for it! 
 
 **Project Leads**: @sergio-cielo
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fsergiodesign.png?alt=media&token=8f5c10f9-ab61-4709-a079-06d92b2eae23 "Optional title")
 
 ## 345336 -> [The Weekly Update is born](https://medium.com/chingu/chingu-weekly-vol-20-71c061968fc7) 
 
