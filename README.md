@@ -356,25 +356,21 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Leads**: 
 
-## 22 -> [Lion-bot](https://lion-bot.herokuapp.com/) 
+## 22 -> [The Gang of Four Lions present the Lion-bot](https://lion-bot.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: Do you and your team use Slack? Now you can get some good jokes delivered to you right inside the app. The Lion-bot has compiled jokes from more than 1 website, and it can send you a joke whenever you ask it to.
 
-**Project Story**: 
+**Project Story**: This was the first bot to be finished in the build.to.learn bot series. Also, to date it's the fastest a team has finished a build.to.learn project completely. These lions coordinated in a google doc, agreed on an idea and executed both the bot functionality as well as a landing page for the bot in two weeks flat. It was crazy how well this team gelled. 
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @alexmcleod01, @logachev, @michaelblood, @josh5231
 
 ## 21 -> [Dev-Dash](https://chrome.google.com/webstore/detail/dev-dash/dgkmjidcaelocfmnhlmeimmbaljgjfhm) 
 
-**Project Description**: 
+**Project Description**: Dev-dash is a Chrome extension that overrides the default new-tab behavior. In place of the default new-tab behavior, dev-dash presents the user with an at-a-glance overview of a set of tracked GitHub repositories. The extension is designed to help small project teams keep track of team members' activity without having to log into GitHub and comb through a repository's history. It displays data related to commits, issues, comments, pull requests and merges.
 
-**Project Story**:
+**Project Story**: This project came from the pivot part of the build.to.learn Momentum challenge, and my goodness, what a pivot it is! This is also a good example of the perserverance sometimes necessary in a project. It started as a team project, but as can naturally happen in dev teams, people get busy and drop out of the project. Did that deter @belcurv though? Not a chance. And thank goodness it didn't, because now this helpful chrome extension exists and he learned a ton along the way! 
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @belcurv, shoutout to @thomas with the design skills!
 
 ## 20 -> P1XT Study Guides Support Groups formed 
 
