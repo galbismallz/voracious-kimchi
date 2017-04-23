@@ -402,39 +402,43 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 17 -> ChinguSort
 
-**Project Description**: 
+**Project Description**: A Machine-Learning aided recommendation system to create optimal groupings for the cohorts. 
 
 **Project Story**:
 
 **Publication(s)** <br> 
+
 
 **Project Leads**: @trion
 
 ## 16 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
 
-**Project Description**: 
+**Project Description**: Something like 15-20 different people from different countries wishing everyone a Happy New Year (in English and often in their native language as well). It's a showcase of the diversity of the Chingus. 
 
-**Project Story**:
+**Project Story**: To be honest, I'm not sure how this idea came about, but I'm sure glad it did. My guess is it was @alecia's idea :). Alecia and I chatted with members who were interested in participating and we got several short video clips of people showcasing their homeland and droppin some "Happy New Years" salutations. Then we sent the clips to the illustrious @oansky who did a fine job mix-mastering that into a coherent showcase. 
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @alecial, @oansky 
 
 ## 15 -> [Pair-board](http://pairboard.surge.sh/) 
 
-**Project Description**: 
+**Project Description**: Pair programming connector for Freecodecamp. 
 
-**Project Story**:
+**Project Story**: Quick disclaimer: this project was not born from the cohorts. As far as I know, this project was inspired by one of @p1xt's awesome dev challenges on the Freecodecamp forum. I add it here because @jacksonbates brought the project into the cohorts (shout-out r-pandas!) and quite a few peple contributed to it from there. Even now, if you go to this page you'll see one of @kornil's favicons on the tab. :)
 
 **Publication(s)** <br> 
+[FREECODECAMP forum post: Honour roll](https://forum.freecodecamp.com/t/pairboard-the-honour-roll/63442)
 
-**Project Leads**: jbates
+Also, check out this fantastic video tutorial @jacksonbates did 
+
+**Project Leads**: @jacksonbates, (see link below for the full honour roll!)
 
 ## 14 -> [Chuzzlehunt Need link - NEED LINK](#) 
 
-**Project Description**: 
+**Project Description**: Part coding challenge, part internet adventure, part treasure hunt. 
 
-**Project Story**:
+**Project Story**: This project was so fun to see start as an idea and then grow into something people got to interact with and have fun with. The emoji sensai himself (@trion) likes puzzles and loves code, so he put the idea together and we got it rollin'! 
+
+We partnered this project with another project - the New Years video - and the rest is history. I've heard whispers that the Chuzzlehunt Part 2 is in the works. And what a coincidence, we've also go the second video in the works... :)
 
 **Publication(s)** <br> 
 
@@ -442,19 +446,19 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 13 -> [Kornil's Favicons begin](https://github.com/Kornil/Red-Panda-FCC-Favicon) 
 
-**Project Description**: 
+**Project Description**: Animal favicons for each Chingu cohort. 
 
-**Project Story**:
+**Project Story**: This is one of those projects that start off as a seed, and then grow into the wild into all kinds of fun and interesting ways as people interact with it. Kornil originally made a favicon for his Red-Pandas, and then suddenly people started adding the favicons to their profile pictures in the cohorts and the Freecodecamp forum.
 
-**Publication(s)** <br> 
+Since then, it's become a tradition: new cohort = new kornil favicon! 
 
-**Project Leads**: 
+**Project Leads**: @kornil
 
 ## 12 -> Florinpop's wild week 
 
-**Project Description**: 
+**Project Story**:The infamous Week of Florinpop back in the Meerkat days! During this week, @florinpop rampaged through what seemed like 1200 projects. In reality, he built a single player football game (x-ball), a multiplayer football game (x-ball), a chat-application and a snakemaze-type game. Oh, and he also had his multiplayer version of x-ball showcased on a famous Javascript youtube channel (in picture below).  
 
-**Project Story**:
+No joke, people mentioned florinpop and kornil on the post-cohort survey comment section, saying how seeing others so active inspired them to build and learn more. This is what it's all about!
 
 **Publication(s)** <br> 
 
@@ -462,7 +466,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 222322 -> [User-name Generator](http://trion.me/CodingChallenges/Tools/UsernameGenerator/) 
 
-**Project Description**: 
+**Project Description**: This splendid little functionality generates groovy usernames. We should probably start using this for build.to.learn team project names... ;p
 
 **Project Story**: A pair-programming adventure!
 
@@ -473,13 +477,11 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 11 -> [Pear](https://github.com/mmhansen/pear) 
 
-**Project Description**: 
+**Project Description**: Full on remote dev project streamlining app!
 
-**Project Story**: This project put mmhansen on the map! He got a job out of this practically! 
+**Project Story**: This idea started somewhat as a joke about making a "tinder for projects". It didn't end up being that, but it is a tool to help streamline team projects. @mmhansen beasted this project pretty much single-handedly, and pretty much set the path towards legendary status by doing it. Not long after this project, @mmhansen got his first javascript dev job! :)
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @mmhansen
 
 ## 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
@@ -497,53 +499,45 @@ With the amount of people we had working on that project, it’s a miracle anyth
 
 ## 9 -> [Momentum (sparta & gang)](http://rawgit.com/Bigghead/Momentum-Clone/master/index.html) 
 
-**Project Description**: 
+**Project Description**: A suave reverse-engineering of the productivity app called Momentum-dash. 
 
-**Project Story**:Lotta learning here 
+**Project Story**: This was an organically grown project pretty much. A few people messaged about wanting to get into a remote dev team project. A previous team had courageously attempted the Momentum adventure didn't finish it, so that idea was chosen. Like all team projects, there was some challenges but the team rallied beautifully and completed the FIRST MOMENTUM PROJECT!
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @mozar, @sparta, @thelittleblacksmith (shout-out to everyone else who worked on this project as well!)
 
 ## 8 -> Campfire Stories Version 1 
 
-**Project Description**: 
+**Project Description**: Campfire-stories captures and showcases the stories of people coding around the world. Like Humans of New York, but for devs.  
 
 **Project Story**: "this is why I code" comment on the forum post
 
 **Publication(s)** <br> 
+[@alecia's article called "Initiating a conversation is terrifying"](https://medium.com/chingu/initiating-a-conversation-is-terrifying-b4dd922640b3) about her experience working on this project.
 
-**Project Leads**: 
+**Project Leads**: @mmhansen, @codejunky, @l-emi, @alecia, @serio-cielo, and a whole lot of other people I've still got to track down... ;p 
 
 ## 7 -> Campfire stories' logo 
 
-**Project Description**: 
+**Project Description**: @sergio-cielo worked on the Campfire-stories design and crafted this wonderful logo for it! 
 
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @sergio-cielo
 
 ## 345336 -> [The Weekly Update is born](https://medium.com/chingu/chingu-weekly-vol-20-71c061968fc7) 
 
-**Project Description**: 
+**Project Description**: A weekly soiree-on-the-screen that showcases the happens within the cohorts each week. Team and individual projects, stories, Chingu-of-the-Week, News, etc. 
 
-**Project Story**:
+**Project Story**: This started partly for the same reason this projects playlist repo exists; namely, there's too much awesome stuff going on not to share. 
 
 **Publication(s)** <br> 
 
-**Project Leads**: 
 
 ## 6 -> [Chingu Youtube Channel aka @mmhansen's tutorial fiesta](https://www.youtube.com/watch?v=wwrd-JCOzd4) 
 
-**Project Description**: 
+**Project Description**: Youtube channel for tutorials, talks or Campfire-Stories specific videos (like the New Years video or the upcoming global perspectives video asking "why is coding important to you?")
 
-**Project Story**:
+**Project Story**: This started from @mmhansen wanting to explore and learn about making coding tutorials. 
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @mmhansen
 
 ## 5 -> [DUMA](https://chrome.google.com/webstore/detail/duma/mamoofifhahehmokjnkpdkoojkcliimc) 
 
