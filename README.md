@@ -235,6 +235,8 @@ and get automated summaries, right in Slack.
 
 **Project Leads**:
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fcodeoclock.png?alt=media&token=edf90acc-c152-4be1-95d7-95d46a054047 "Optional title")
+
 ## 35 -> [Paypal slack landing page reverse engineering](https://github.com/bigyankarki/PayPal-Splash-Page) 
 
 **Project Description**: A Paypal bot landing page clone.
