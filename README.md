@@ -254,15 +254,18 @@ and get automated summaries, right in Slack.
 
 **Project Leads**:
 
-## 31 -> [Kim's Game-dev Project Management Temple](https://chingu-game-dev.herokuapp.com/) 
+## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: Project Management Site for the Game-Dev Project
 
-**Project Story**:
+**Project Story**: So… @kimkwanka reached out to ask if she could make a game-development project, and I replied that that would be wonderful!
 
-**Publication(s)** <br> 
+Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there was 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented.
 
-**Project Leads**:
+At the time of writing the projects just kicked off… what.a.time.to.be.alive!
+
+**Project Leads**: @kimkwanka
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
 
 ## 30 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
 
@@ -478,15 +481,19 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Leads**: 
 
-## 10 -> [Rhinos Space Shooter](http://trion.me/Space-Shooter/) 
+## 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
-**Project Description**: 
+**Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
 
-**Project Story**:
+**Project Story**: This project started out as a little seed of an idea based on a resource someone posted in the #general chat, and grew into a wild jungle of an adventure with people from damned near every continent working together to build a classic arcade game…WHAT?! (ya I know, we’re not normal ;p)
+ 
+We kicked off the first project meeting with…around 20 people! We rallied around one version of the game and collectively managed to get a features list set and loaded up in Trello (project management tool). Those features were translated into tasks and we formed pairs to work on the tasks.
 
-**Publication(s)** <br> 
+With the amount of people we had working on that project, it’s a miracle anything got finished. It was a fun ride, though!
 
-**Project Leads**: 
+**Project Leads**: @trion, the Emoji-Sensai himself!
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
 ## 9 -> [Momentum (sparta & gang)](http://rawgit.com/Bigghead/Momentum-Clone/master/index.html) 
 
@@ -598,32 +605,9 @@ potentially other medium posts as well?
 **Project Leads**:
 
 
-## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
-
-**Project Description**: Project Management Site for the Game-Dev Project
-
-**Project Story**: So… @kimkwanka reached out to ask if she could make a game-development project, and I replied that that would be wonderful!
-
-Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there was 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented.
-
-At the time of writing the projects just kicked off… what.a.time.to.be.alive!
-
-**Project Leads**: @kimkwanka
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
 
 
-## 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
-**Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
 
-**Project Story**: This project started out as a little seed of an idea based on a resource someone posted in the #general chat, and grew into a wild jungle of an adventure with people from damned near every continent working together to build a classic arcade game…WHAT?! (ya I know, we’re not normal ;p)
- 
-We kicked off the first project meeting with…around 20 people! We rallied around one version of the game and collectively managed to get a features list set and loaded up in Trello (project management tool). Those features were translated into tasks and we formed pairs to work on the tasks.
-
-With the amount of people we had working on that project, it’s a miracle anything got finished. It was a fun ride, though!
-
-**Project Leads**: @trion, the Emoji-Sensai himself!
-
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
 
