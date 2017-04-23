@@ -39,9 +39,9 @@ Project story: Seeing this project for the first time was took me back to riding
 
 ## 50 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
-**Project Description**:  
+**Project Description**: A slack-bot tailored made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. The bot collects all the finished goals and posts to the channel once a day.   
 
-**Project Story**: 
+**Project Story**: This project was made by @mtso as a PRACTICE round to prepare for the build.to.learn team project he signed up for. That's what I'm talking about!! 
 
 **Project Leads**: @mtso
 
@@ -51,9 +51,9 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
 
-**Project Story**: TBA
+**Project Story**: Curiosity to build and reaching out to the network for help is the story of this project. I've heard it's going to change a lot as @mahaveer learns more! 
 
-**Project Leads**: @mahaveer 
+**Project Leads**: @mahaveer, big shout-out to @vera for the help! 
 
 ## 50 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
@@ -61,9 +61,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
-**Project Leads**: Developed by: Tan, Pankaja, Arthur (project manager) and CillianBC as part of the Chingu-Belugas.
+**Project Leads**: Developed by: @Tan, @Pankaja, @Arthur (project manager) and @CillianBC as part of the Chingu-Belugas.
 
 ## 50 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
 
