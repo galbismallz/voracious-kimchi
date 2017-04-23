@@ -18,6 +18,12 @@ We live, we learn, we build.
 
 Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress. If I've missed anything (almost guaranteed that I have), please DM me to let me know :)  
 
+### Upcoming projects
+
+## Mysterious social network type project 
+
+Project story: Seeing this project for the first time was took me back to riding down a waterfall in an Indonesian jungle-- the excitement level was that high. 
+
  
 ## 50 -> [SoundReact](http://soundreact.surge.sh/) 
 
@@ -372,42 +378,55 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 20 -> P1XT Study Guides Support Groups formed 
 
-**Project Description**: 
+**Project Description**: A support/ study group for those working through the infamous P1XT Study guides. 
 
-**Project Story**:
+**Project Story**: Like many things, there was a lot of twists and turns into getting this up and running. First, two channels within Chingu-Central were started that revolved around the Study Guides. One was on the Guides in general, and one was specifically for the You Don't Know Javascript book series (shout out Kyle Simpson!!) @indyrob and @collin were the leaders who built the foundations of this ship, and we thank them for starting something awesome! 
 
 **Publication(s)** <br> 
+Here are some [slides](https://docs.google.com/presentation/d/1EjI1UF16_c1eTrkZMKr2AODL09qYc_kiK2vBRixHZXU/edit#slide=id.g1c293d0328_0_6) from a presentation @indyrob did for this group. And here is one of the first meetings from this era [here.](https://www.youtube.com/watch?v=WqrN7KPz62U) 
 
-**Project Leads**: @rob + ??? 
+**Project Leads**: @indyrob + @collin
 
 ## 19 -> [Chingography](https://github.com/mmhansen/chingogprahy) 
 
-**Project Description**: 
+**Project Description**: A slick intros library for member's intros (aka coding history, interests, etc) built with React. 
 
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**: 
-
-## 18 -> [Momentum Belcurv & gang](https://general-meerkats.github.io/meerkat_momentum/) 
-
-**Project Description**: 
-
-**Project Story**: A Build.to.learn adventure!
+**Project Story**: When I first heard whispers that @mmhansen and @mozar were teaming up for some mysterious project, I knew something cool was in the works. My guess is a lot of level-ups went down during those pair programming adventures. At one point they dropped a 3 hour pair programming session recording from this project. Sadly, the video/sound quality was all over the map, but the fact that they were rockin' 3 hour sessions is awesome. 
 
 **Publication(s)** <br> 
+As a sidenote: around this time @mmhansen crafted this article reflecting on the first few months as a professiona developer. You can check the article called [From zero to hero(ish) here](https://medium.com/chingu/from-zero-to-hero-ish-204d74244944), but there's a particularly potent passage I'll leave with you here:
 
-**Project Leads**: 
+_"You will never really be ready for your first job. You will fail. I forgot where I saw it, but someone once said, ‘How long are you going to try to get good at something you want to spend your entire life on?” That drove me forward. I didn’t let the failures of 6 months stop me at all when I knew what life I wanted to make for myself and what opportunities lay before me."_
+
+
+**Project Leads**: @mmhansen, @mozar 
+
+## 18 -> [Team General Meerkats Momentum](https://general-meerkats.github.io/meerkat_momentum/) 
+
+**Project Description**: This is the Tesla of Momentum clones right here. Slick, well-designed and just makes you feel good. 
+
+**Project Story**: A Build.to.learn adventure! I should also note, this project was the beginning of a prolific streak by @belcurv (shout-out Dev-dash! Who-bot! Modular JS medium article picked up by CSS-TRICKS!). 
+
+**Publication(s)** <br> 
+I'm going to go ahead and leave @belcurv's articles inspired by his work on this project and others. 
+[Writing Modular Javascript Pt 1](https://medium.com/@jrschwane/writing-modular-javascript-pt-1-b42a3bd23685)
+[Writing Modular Javascript Pt 2](https://medium.com/@jrschwane/writing-modular-javascript-pt-2-d7140d15c982)
+[Writing Modular Javascript Pt 3](https://medium.com/@jrschwane/writing-modular-javascript-pt-3-d6db23330641)
+
+**Project Leads**: @belcurv & @amdiou, @collin, @jake, @jezer, @thomas
 
 ## 17 -> ChinguSort
 
-**Project Description**: A Machine-Learning aided recommendation system to create optimal groupings for the cohorts. 
+**Project Description**: A recommendation system using Machine Learning to create optimal groupings for the Chingu cohorts. 
 
-**Project Story**:
+**Project Story**: To me, this project is a perfect encapsulation of how we like to view projects in the cohorts. 
+
+But first, a quick word on @trion: you never quite know what you're going to get with @trion. One day he's writing poems about keyboard hot-keys, and the next he's on a crazy 1-month Machine Learning extravaganza building who-knows-what! It's fantastic. 
+
+Okay, back to the project story. So, @trion was cart-wheeling through ML tutorials and in true @trion fashion started thinking "what is a project I could do that could help me solidify this knowledge, but also to provide value to others at the same time?" And so, we chatted and ChinguSort was born. 
 
 **Publication(s)** <br> 
-
+Check out @trion's article on his experience called [Sorting Cohort applicants into new Cohorts using Machine Learning](https://medium.com/chingu/sorting-cohort-applicants-into-new-cohorts-using-machine-learning-9f730d5ce5c)
 
 **Project Leads**: @trion
 
