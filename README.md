@@ -21,7 +21,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
  
 ## 50 -> [SoundReact](http://soundreact.surge.sh/) 
 
-**Project Description**: A reverse-engineering of Soundcloud. 
+**Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
 
 **Project Story**: TBA
 
@@ -31,7 +31,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension.
 
-**Project Story**: 
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -41,7 +41,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -49,59 +49,55 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 50 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
-**Project Description**: 
+**Project Description**: An Online Data Science Magazine Community.
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: Kenneth Amanfo Junior (@amanfojr)
 
 ## 50 -> Design Monks Collective 
 
-**Project Description**: 
+**Project Description**: A design learning collective/ support group inside the Chingu cohorts. 
 
-**Project Story**:
+**Project Story**: They have just recently started, but already have a 7 day UX/UI challenge going! What I love about this group is that it was started organically. 
 
-**Publication(s)** <br> 
+**Project Leads**: Kenneth Amanfo Junior (@amanfojr)
 
-**Project Leads**:
+## 50 -> [Team Air-Walkers Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
 
-## 50 -> [Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
+**Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
 
-**Project Description**: 
+**Project Story**: A Build.to.learn adventure! 
 
-**Project Story**:
-
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: Team Air-walkers: @che-monk, @matthew_burfield
 
 ## 49 -> [FCC Speedrun vol. 2 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
-**Project Description**: 
+**Project Description**: Challenge to complete as many of the FCC Projects as you can in a 3-5 week period.
 
-**Project Story**:
+**Project Story**: This is the second run we've done with the FCC Speedrun (currently ongoing). For this run, there's around 80 people Speedrunnin' through the FreeCodeCamp projects! 
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: Challenge designed by @p1xt
 
 ## 48 -> [Who-bot](https://whobot.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: This is essentially the Library of Alexandria for the Chingu cohorts, but instead of books, it houses skills. The offical description: whobot will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: 
 
 ## 47 -> [Team Splash-Master paypal bot landing page clone](https://andbostick.github.io/) 
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -109,19 +105,19 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 46 -> [Dork trivia bot](https://antonderegt.github.io/roxean-bot-landing-page/) 
 
-**Project Description**: 
+**Project Description**: Hi, I'm Dork and I'm a DORK! I love to play the games trivia. Just call my name and I'll throw a dorky question at you, let's see how dorky you are.
 
-**Project Story**:
+**Project Story**: Build.to.learn adventure! 
 
 **Publication(s)** <br> 
 
-**Project Leads**:
+**Project Leads**: 
 
 ## 45 -> [Ode to Numbers bot](https://rhubarb-pie-22231.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: This is a slack bot for interesting facts about numbers. This bot let you bring your metrics and dates to life.
 
-**Project Story**:
+**Project Story**: Build.to.learn voyage!
 
 **Publication(s)** <br> 
 
@@ -131,17 +127,17 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 
 **Project Leads**:
 
-## 43 -> [Tariel + Tom Momentum](https://github.com/tlcodes/NewTab) 
+## 43 -> [Team Tree Lizard's Momentum-dash clone](https://github.com/tlcodes/NewTab) 
 
-**Project Description**: 
+**Project Description**: A gourmet combination of several FCC projects combined into one: momentum. 
 
-**Project Story**:
+**Project Story**: A Build.to.learn journey!
 
 **Publication(s)** <br> 
 
@@ -149,19 +145,19 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 42 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
 
-**Project Description**: 
+**Project Description**: A playful cat slack bot. @bad.kitty! He won't encourage you or help you ever. He will offer you photos of his sarcastic feline friends. Type /help in slack while mentioning @bad.kitty for a list of commands and interactions!
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
 **Project Leads**:
 
-## 41 -> [JSY - a Javascript QnA AI bot landing page ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
+## 41 -> [JSY ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
 
-**Project Description**: 
+**Project Description**: A Javascript QnA AI bot landing page. 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -169,9 +165,9 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 40 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
 
-**Project Description**: 
+**Project Description**: A Paypal bot landing page clone done by a remote dev team. 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -181,7 +177,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -191,7 +187,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -199,19 +195,20 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 37 -> [THREE BEARS splash page](https://github.com/fcontreras18/three-bears-splash-page) 
 
-**Project Description**: 
+**Project Description**: A Paypal bot landing page clone done by a remote dev team. 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
 **Project Leads**:
 
-## 36 -> [Code O' Clock](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
+## 36 -> [Code O' Clock splash page](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
 
-**Project Description**: 
+**Project Description**: Code O' Clock: Now you can schedule meetings, code,
+and get automated summaries, right in Slack.
 
-**Project Story**:
+**Project Story**: A Build.to.learn PIVOT adventure!
 
 **Publication(s)** <br> 
 
@@ -219,9 +216,9 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 35 -> [Paypal slack landing page reverse engineering](https://github.com/bigyankarki/PayPal-Splash-Page) 
 
-**Project Description**: 
+**Project Description**: A Paypal bot landing page clone.
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -229,9 +226,9 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 34 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
 
-**Project Description**: 
+**Project Description**: A Lion-bot landing page clone done by a remote dev team.
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -251,7 +248,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -321,7 +318,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 @vera detailed this adventured in her articled called [MDNBot coding journey](https://medium.com/chingu/mdnbot-coding-journey-b20316a88163)
@@ -334,7 +331,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A pair-programming project adventure! 
 
 **Publication(s)** <br> 
 
@@ -354,7 +351,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: 
 
 **Publication(s)** <br> 
 
@@ -394,7 +391,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A Build.to.learn adventure!
 
 **Publication(s)** <br> 
 
@@ -464,7 +461,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: A pair-programming adventure!
 
 **Publication(s)** <br> 
 
