@@ -4,6 +4,8 @@ A project voyage.
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/journeys1.png?alt=media&token=151df684-536c-4557-ad5d-e27a951628c4 "Optional title")
 ([photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
 
+![Alt text]( "Optional title")
+
 This isn't a normal README. 
 
 This README is more like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos. 
@@ -310,6 +312,8 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 **Publication(s)** <br> 
 
 **Project Leads**:
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Ftimedup.png?alt=media&token=dc594e99-1ff9-4029-9e2f-197d16680405 "Optional title")
 
 ## 28 -> Chingu's logo by Kenneth 
 
