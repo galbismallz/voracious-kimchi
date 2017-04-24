@@ -43,15 +43,15 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 
 
-# Pipeline projects
+# Currently evolving
 
 ## -> Devgaido (Formerly Neda)
 
-**Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. 
+**Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. "Gaido" means "guide" in Japanese.
 
 ## -> Avis nonprofit
 
-**Sneak preview**: Re-making the website for an Italian blood donor nonprofit. 
+**Sneak preview**: Re-designing and building the website for an Italian blood donor nonprofit. 
 
 ## -> Fat Giants startup
 
@@ -59,11 +59,11 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## -> Secret project.
 
-**Sneak preview**: You could say it's for a celebrity... ;p
+**Sneak preview**: We'll drop a little preview when it has progressed a little further. 
 
 ## -> *** ****** Network 
 
-**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say when I first went through the MVP in an office in rural Quebec, I felt like I was riding down a waterfall in the depths of an Indonesian jungle. It was _that_ exciting. 
+**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say only that I've been through the MVP of this project and it's...wild.  
 
 
 # Finished projects
