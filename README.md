@@ -56,7 +56,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Sneak preview**: Nutrition chatbot using machine learning that ultimately aims to lower food waste in the world. Accepted into Y Combinator's online Startup-school. 
 
-## -> Secret project.
+## -> Secret project
 
 **Sneak preview**: We'll drop a little preview when it has progressed a little further. 
 
@@ -69,7 +69,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
-**Project Description**: A slack-bot tailored made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. Runner collects all the finished goals and posts them all to its home channel once a day. It's minimal, elegant and wonderful. 
+**Project Description**: A slack-bot tailor made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. Runner collects all the finished goals and posts them all to its home channel once a day. It's minimal, elegant and wonderful. 
 
 **Project Story**: This project was made by @mtso as a PRACTICE round to prepare for the build.to.learn team project he signed up for. That's what I'm talking about!! 
 
