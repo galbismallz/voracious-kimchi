@@ -10,9 +10,8 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
+
 
 
 This isn't a normal README. 
@@ -163,6 +162,8 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 **Project Story**: Build.to.learn adventure! 
 
 **Project Leads**: 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fdork.png?alt=media&token=10d6347f-1c74-4404-8627-f707bcfaa733 "Optional title")
 
 ## 45 -> [Ode to Numbers bot](https://rhubarb-pie-22231.herokuapp.com/) 
 
@@ -609,6 +610,9 @@ Posted in the FCC forum [here](https://forum.freecodecamp.com/t/hungry-for-resou
 **Project Story**: This illustrious little codepen was created during a pair-programming session many moons ago!
 
 **Project Leads**: @kunal05, @trion 
+
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fcodepenfilter.png?alt=media&token=912cbcc8-be7b-4ad2-846f-a071f840965a "Optional title")
 
 ## 2 -> [Patakey Sound app](https://jadczakd.github.io/patakeyboard/) 
 
