@@ -4,43 +4,19 @@
 <br>
 [Photograph by: Laurie-Anne Robert](https://unsplash.com/@laurieannerobert)
 
+“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.” — Pam Slim
 
+Hi there,  
 
-![Alt text]( "Optional title")
+The mini dev-adventure README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets.  
 
-![Alt text]( "Optional title")
+This is a living and ever-growing ode to people coming together to learn and build. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to create something. There's something special in that, and it's why I believe each collaborative project deserves its place in this rambunctious repo, regardless of its wow factor.  
 
-![Alt text]( "Optional title")
+What you see below are the projects that have been finished. Below the finished projects, you can find the Upcoming larger projects. Over half of the finished projects on this list were completed in the last month or so. Our goal is to have over 200 entries by the next Winter Olympics in South Korea. Chingu's moonshot is to have 1000 projects in here by the Olymics in Tokyo. Crazy? I would probably say so, yes. :) 
+  
+Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress, and will be improved (as well as missing info be added) as we go along. If I've missed anything (almost guaranteed that I have), please DM me to let me know. 
 
-![Alt text]( "Optional title")
-
-
-
-
-
-
-
-
-
-
-
-
-This isn't a normal README. 
-
-This README is more like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos. 
-
-TL;DR It’s a tangled treasure-trove of remote dev collaborations, of various sorts. 
-
-This projects playlist is a living and ever-growing ode to people coming together to learn and build. Each project represents strangers from across the world who came together to create something.
-
-The moonshot? 1000 projects to this list by 2020. 
-
-We live, we learn, we build. 
-
-Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress. If I've missed anything (almost guaranteed that I have), please DM me to let me know :)  
-
-“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.” — P. Slim
-
+TL;DR It’s a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out to Freecodecamp for being awesome.  
 
 # Finished projects
 
@@ -88,7 +64,7 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FWeareORB.png?alt=media&token=548993d7-d1a2-4ac5-bfd4-730ceeaa7099 "Optional title")
 
-## 50 -> [Team Air-Walkers Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
+## 50 -> [Team Air-Walkers' Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
 
 **Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
 
@@ -136,31 +112,23 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**: @peet, @belcurv 
 
-## 47 -> [Team Splash-Master paypal bot landing page clone](https://andbostick.github.io/) 
-
-**Project Description**: A Paypal bot landing page clone!
-
-**Project Story**: A Build.to.learn adventure!
-
-**Project Leads**: 
-
 ## 46 -> [Dork trivia bot](https://antonderegt.github.io/roxean-bot-landing-page/) 
 
 **Project Description**: Hi, I'm Dork and I'm a DORK! I love to play the games trivia. Just call my name and I'll throw a dorky question at you, let's see how dorky you are.
 
 **Project Story**: Build.to.learn adventure! 
 
-**Project Leads**: 
+**Project Leads**: @rpemberton, @antonderegt @xenoflits
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fdork.png?alt=media&token=10d6347f-1c74-4404-8627-f707bcfaa733 "Optional title")
 
 ## 45 -> [Ode to Numbers bot](https://rhubarb-pie-22231.herokuapp.com/) 
 
-**Project Description**: This is a slack bot for interesting facts about numbers. This bot let you bring your metrics and dates to life.
+**Project Description**: This is a slack bot for interesting facts about numbers. This bot let you bring your metrics and dates to life!
 
 **Project Story**: Build.to.learn voyage!
 
-**Project Leads**:
+**Project Leads**: @wojryba & @asanhix
 
 ## 44 -> [Team Tree Lizard's Momentum-dash clone](https://github.com/tlcodes/NewTab) 
 
@@ -168,7 +136,9 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn journey!
 
-**Project Leads**:
+**Project Leads**: @tariellaelius & @tom (shout-out to @gustav for helping!)
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fteamlizard.png?alt=media&token=6693b2bd-ddec-45a3-aad6-3b1862f78081 "Optional title")
 
 ## 43 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
 
@@ -187,7 +157,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @rifkegribenes, @gelbelle, @himanshupant
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fjsy.png?alt=media&token=aa5f33bf-5fdd-4af6-9cf4-bb5aa5761652 "Optional title")
 
@@ -197,7 +167,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @ebrown, @annah, @aplatter7
 
 ## 40 -> [Team Morning Bunch's Reddit bot](https://github.com/jrepe/reddit_bot) 
 
@@ -205,7 +175,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**:@jure-r, @tom
 
 ## 39 -> [Zambabot](https://zamba9.github.io/ZambaBot/) 
 
@@ -213,7 +183,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @raonicunha, @aofadero, @alvaro
 
 ## 38 -> [THREE BEARS splash page](https://github.com/fcontreras18/three-bears-splash-page) 
 
@@ -221,7 +191,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @fcontreras18, @YichengLiWi
 
 ## 37 -> [Code O' Clock splash page](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
 
@@ -230,7 +200,7 @@ and get automated summaries, right in Slack.
 
 **Project Story**: A Build.to.learn PIVOT adventure!
 
-**Project Leads**:
+**Project Leads**: @becca, @jmaunders
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fcodeoclock.png?alt=media&token=edf90acc-c152-4be1-95d7-95d46a054047 "Optional title")
 
@@ -240,15 +210,15 @@ and get automated summaries, right in Slack.
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @bigyankarki 
 
-## 35 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
+## 35 -> [Team JV Lion-bot splash page clone](https://jeffbautista.github.io/jv-slack-bot/) 
 
 **Project Description**: A Lion-bot landing page clone done by a remote dev team.
 
 **Project Story**: A Build.to.learn adventure!
 
-**Project Leads**:
+**Project Leads**: @jeffb, @ver2point0
 
 ## 34 -> [Timed-up landing page and slack bot integration](https://timedupchingu.herokuapp.com/splash) 
 
@@ -272,11 +242,11 @@ and get automated summaries, right in Slack.
 
 **Project Description**: Project Management Site for the Game-Dev Project
 
-**Project Story**: So… @kimkwanka reached out to ask if she could make a game-development project, and I replied that that would be wonderful!
+**Project Story**: So… @kimkwanka reached out about potentially creating a game-dev project. I thought it was a fantastic idea, and Kim went on set it up. 
 
-Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there was 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented.
+Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there would be 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented. 
 
-At the time of writing the projects just kicked off… what.a.time.to.be.alive!
+At the time of writing the projects recently kicked off… what.a.time.to.be.alive!
 
 **Project Leads**: @kimkwanka
 
@@ -284,9 +254,9 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ## 31 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
 
-**Project Description**: 
+**Project Description**: The Chingu cohorts website. 
 
-**Project Story**:
+**Project Story**: It was time for a refresh, as @kornil graciously pointed out. :) 
 
 **Project Leads**: @kornil, thanks to the many people who helped with different aspects of this project! 
 
@@ -296,7 +266,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Description**: 
 
-**Project Story**:
+**Project Story**: So, @periman joined the Meerkats and also signed up for one of the build.to.learns. This is when we were doing 6 members per build.to.learn momentum team. It's tough to coordinate timezones. After the first few days @periman comes to the team and says, "hey all, I was thinking about a way to fix this". Turns out, he stayed up all night creating a proof of concept for his idea, which would eventually become the full-blown Timed-up app. But when he had the idea he knew nothing about the backend. He did the project and now he not only knows the backend, but that he can _build_ things as well. 
 
 **Project Leads**: @periman, special thanks to @joey-codes and others who helped! 
 
@@ -308,7 +278,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Story**: Kenneth surprised us all with this awesome logo he'd been secretly crafting. He said the the colors represent the diversity in the cohorts, the house represents the friendly family vibe, and there's a sneaky "C" in there for Chingu. 
 
-**Project Leads**: @amanforjr
+**Project Leads**: @amanfojr
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchingulogo.png?alt=media&token=1a1072c7-cb63-4615-9b26-54f4ca12b05a "Optional title")
 
@@ -345,7 +315,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fmdnbot.png?alt=media&token=f47e4e72-8562-4a56-b2b4-f5880525bcc8 "Optional title")
 
-**Project Leads**: 
+**Project Leads**: @animsaj, @mrhos, @vera
 
 ## 25 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
 
@@ -390,7 +360,7 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fkittybot.png?alt=media&token=e326011e-29cb-4c39-b9cd-fa459ffa41fb "Optional title")
 
-## 21 -> P1XT Study Guides Support Groups formed 
+## 21 -> P1XT Study Guides Support Groups formed part 1
 
 **Project Description**: A support/ study group for those working through the infamous P1XT Study guides. 
 
@@ -452,7 +422,7 @@ Check out @trion's article on his experience called [Sorting Cohort applicants i
 
 **Project Story**: To be honest, I'm not sure how this idea came about, but I'm sure glad it did. My guess is it was @alecia's idea :). Alecia and I chatted with members who were interested in participating and we got several short video clips of people showcasing their homeland and droppin some "Happy New Years" salutations. Then we sent the clips to the illustrious @oansky who did a fine job mix-mastering that into a coherent showcase. 
 
-**Project Leads**: @alecial, @oansky 
+**Project Leads**: @alecia, @oansky 
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FOansky.png?alt=media&token=e3b54b89-bc99-466c-8a3c-d39b14cda373 "Optional title")
 
