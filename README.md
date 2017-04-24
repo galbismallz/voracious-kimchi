@@ -6,7 +6,7 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
+
 
 
 
@@ -494,6 +494,7 @@ Since then, it's become a tradition: new cohort = new kornil favicon!
 No joke, people mentioned florinpop and kornil on the post-cohort survey comment section, saying how seeing others so active inspired them to build and learn more. This is what it's all about!
 
 **Publication(s)** <br> 
+@florinpop also writes [Coding Challenges](https://medium.com/@popflorin1705) articles that I highly recommend.  
 
 **Project Leads**: @florinpop, @meerkats who brought that motivational fuel!
 
