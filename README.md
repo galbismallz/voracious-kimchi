@@ -31,11 +31,36 @@ We live, we learn, we build.
 
 Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress. If I've missed anything (almost guaranteed that I have), please DM me to let me know :)  
 
-### Upcoming projects
+# Upcoming projects
 
 ## Mysterious social network type project 
 
 Project story: Seeing this project for the first time was took me back to riding down a waterfall in an Indonesian jungle-- the excitement level was that high. 
+
+# Pipeline projects
+
+## 56 -> Devgaido (Formerly Neda)
+
+**Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. 
+
+## 56 -> Avis nonprofit
+
+**Sneak preview**: Re-making the website for an Italian blood donor nonprofit. 
+
+## 56 -> Fat Giants startup
+
+**Sneak preview**: Nutrition chatbot using machine learning. Accepted into Y Combinator's Startup-school. 
+
+## 56 -> Secret project.
+
+**Sneak preview**: You could say it's for a celebrity... ;p
+
+## 56 -> *** ****** Network 
+
+**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. 
+
+
+# Finished projects
 
 ## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
