@@ -8,15 +8,22 @@ _“We are made to create. We feel useful when we create. We release our ‘stuc
 
 Hi there,  
 
-The mini dev-adventure README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets.  
+This mini dev-adventure README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets.  
 
 This is a living and ever-growing ode to people coming together to learn and build. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to create something. There's something special in that, and it's why I believe each collaborative project deserves its place in this rambunctious repo, regardless of its wow factor.  
 
-What you see below are the projects that have been finished. Below the finished projects, you can find the Upcoming larger projects. Over half of the finished projects on this list were completed in the last month or so. Our goal is to have over 200 entries by the next Winter Olympics in South Korea. Chingu's moonshot is to have 1000 projects in here by the Olymics in Tokyo. Crazy? I would probably say so, yes. :) 
+What you see below are the projects that have been finished. Below the finished projects, you can find the Upcoming larger projects. Over half of the finished projects on this list were completed in the last month or so. Our goal is to have over 200 entries by the next Winter Olympics in South Korea. Chingu's moonshot is to have 1000 projects in here by the Olymics in Tokyo(2020). Crazy? I would probably say so, yes. :) 
   
 Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress, and will be improved (as well as missing info be added) as we go along. If I've missed anything (almost guaranteed that I have), please DM me to let me know. 
 
 TL;DR It’s a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out and thanks to Freecodecamp for being awesome.  
+
+If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](www.freecodecamp.com)). <br>
+If you want to try out a cohort, you can learn more about us [here](https://chingu-cohorts.github.io/chingu-directory/). 
+
+Enjoy, 
+
+Chance
 
 # Finished projects
 
