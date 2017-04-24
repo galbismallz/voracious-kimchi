@@ -115,7 +115,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Description**: This is essentially the Library of Alexandria for the Chingu cohorts, but instead of books, it houses skills. The offical description: whobot will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
-**Project Story**: To be honest, I'm not sure how the initial vision of this wonderful creation came to be. @peet or @jay please let me know and I'll add it here!
+**Project Story**: To be honest, I'm not sure how the initial vision of this wonderful creation came to be. @peet or @jay please let me know and I'll add it here. I know this project was a voyage of sorts! 
 
 **Project Leads**: @peet, @belcurv 
 
