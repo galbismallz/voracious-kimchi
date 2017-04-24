@@ -358,6 +358,8 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 **Project Leads**: @alexmcleod01, @logachev, @michaelblood, @josh5231
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Flionsbot.png?alt=media&token=1114f1a1-40c5-4195-9b8e-c2e8ed62d76c "Optional title")
+
 ## 22 -> [Dev-Dash](https://chrome.google.com/webstore/detail/dev-dash/dgkmjidcaelocfmnhlmeimmbaljgjfhm) 
 
 **Project Description**: Dev-dash is a Chrome extension that overrides the default new-tab behavior. In place of the default new-tab behavior, dev-dash presents the user with an at-a-glance overview of a set of tracked GitHub repositories. The extension is designed to help small project teams keep track of team members' activity without having to log into GitHub and comb through a repository's history. It displays data related to commits, issues, comments, pull requests and merges.
@@ -366,7 +368,7 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 **Project Leads**: @belcurv, shoutout to @thomas with the design skills!
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fkittybot.png?alt=media&token=e326011e-29cb-4c39-b9cd-fa459ffa41fb "Optional title")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fdevdash.png?alt=media&token=57603fbf-8a53-441c-b699-49db08673f82 "Optional title")
 
 ## 21 -> P1XT Study Guides Support Groups formed part 1
 
