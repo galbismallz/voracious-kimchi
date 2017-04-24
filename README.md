@@ -466,7 +466,7 @@ Check out @trion's article on his experience called [Sorting Cohort applicants i
 
 **Project Leads**: @trion
 
-## 17 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
+## 17 -> [Happy New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
 
 **Project Description**: Something like 15-20 different people from different countries wishing everyone a Happy New Year (in English and often in their native language as well). It's a showcase of the diversity of the Chingus. 
 
