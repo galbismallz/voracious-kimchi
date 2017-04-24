@@ -320,9 +320,10 @@ Spoiler: she got the job! :)
 
 MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/claudiajs/claudia-bot-builder) 
 
+**Project Leads**: @animsaj, @mrhos, @vera
+
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fmdnbot.png?alt=media&token=f47e4e72-8562-4a56-b2b4-f5880525bcc8 "Optional title")
 
-**Project Leads**: @animsaj, @mrhos, @vera
 
 ## 25 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
 
