@@ -31,6 +31,8 @@ We live, we learn, we build.
 
 Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress. If I've missed anything (almost guaranteed that I have), please DM me to let me know :)  
 
+“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.” — P. Slim
+
 # Upcoming projects
 
 
