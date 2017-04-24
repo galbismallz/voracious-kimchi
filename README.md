@@ -1,8 +1,9 @@
 # 친구
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fminidevadventuresvol1.png?alt=media&token=b7d1174c-e893-4c37-9633-7e5884a41557 "Optional title")
-([photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
 
-![Alt text]( "Optional title")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fminidevadventuresvol1.png?alt=media&token=b7d1174c-e893-4c37-9633-7e5884a41557 "Optional title")
+[photo cred: Zoltán Vörös](https://www.flickr.com/photos/94941635@N07/18408872803/in/photolist-u3JhwF-S4WCUa-bXnDzH-pMw8Ma-q6h2LD-bAJEi2-q8wUhL-a7QzJe-R6bqS7-pGuQVc-eQrkqw-oSk6js-6LvPwU-jxRHyj-cADL9y-Ry6vPL-8zwotG-pomCk8-9enAUA-RCJp58-cigQb7-iJ8b1f-gYUXJS-64qbTH-6mNnwS-dUjcNZ-snNBn5-cuEziq-dUjcQi-anwgjN-SDnxGd-aes1s6-dqtNMN-jsQTcQ-92ThNn-qZacsY-bWexje-oTZWgD-36crRe-mMht1V-muTa1Q-fLVSMM-rbqGKJ-RDqwNd-aH3hT8-f52Jx3-oWzoYB-pnS3V1-bAaCbg-mWKioS))
+
+
 
 ![Alt text]( "Optional title")
 
