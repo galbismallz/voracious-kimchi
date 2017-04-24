@@ -568,7 +568,7 @@ With the amount of people we had working on that project, it’s a miracle anyth
 **Project Story**: "this is why I code" comment on the forum post
 
 **Publication(s)** <br> 
-[@alecia's article called "Initiating a conversation is terrifying"](https://medium.com/chingu/initiating-a-conversation-is-terrifying-b4dd922640b3) about her experience working on this project.
+@alecia's article called ["Initiating a conversation is terrifying"](https://medium.com/chingu/initiating-a-conversation-is-terrifying-b4dd922640b3) about her experience working on this project as an introvert.
 
 **Project Leads**: @mmhansen, @codejunky, @l-emi, @alecia, @serio-cielo, and a whole lot of other people I've still got to track down... ;p 
 
