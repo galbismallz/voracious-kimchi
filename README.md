@@ -14,8 +14,6 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
-
 
 This isn't a normal README. 
 
@@ -87,6 +85,8 @@ Note: I am presently reaching out to teams and people involved in the projects b
 **Project Story**: A Build.to.learn adventure!
 
 **Project Leads**: Developed by: @Tan, @Pankaja, @Arthur (project manager) and @CillianBC as part of the Chingu-Belugas.
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fwebtao.png?alt=media&token=02e6c648-281c-49b9-ae75-586198d2f4e9 "Optional title")
 
 ## 53 -> Alfred
 
