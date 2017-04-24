@@ -4,7 +4,7 @@
 <br>
 [Photograph by: Laurie-Anne Robert](https://unsplash.com/@laurieannerobert)
 
-_“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.”_ — Pam Slim (feel free to exchange "build" for "create")
+_“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.”_ — Pam Slim (feel free to exchange "create" with "build")
 
 Hi there,  
 
