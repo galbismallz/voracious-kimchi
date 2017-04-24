@@ -62,7 +62,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
-**Project Description**: A slack-bot tailored made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. The bot collects all the finished goals and posts to the channel once a day.   
+**Project Description**: A slack-bot tailored made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. Runner collects all the finished goals and posts them all to its home channel once a day. It's minimal, elegant and wonderful. 
 
 **Project Story**: This project was made by @mtso as a PRACTICE round to prepare for the build.to.learn team project he signed up for. That's what I'm talking about!! 
 
