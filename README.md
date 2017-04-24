@@ -8,7 +8,7 @@
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
+
 
 
 
@@ -369,11 +369,9 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 25 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
 
-**Project Description**: An nicely designed implementation of hangman! 
+**Project Description**: I'll leave that up to the screenshot below ;p
 
-**Project Story**: A pair-programming project adventure! I believe this project was done over a few sessions. 
-
-**Project Leads**: @alanna, @vera
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fnickolaos.png?alt=media&token=edf93358-b2fb-4aa6-b879-141c2cfca77d "Optional title")
 
 ## 25 -> [Hangman](https://alannal.github.io/Hangman/) 
 
