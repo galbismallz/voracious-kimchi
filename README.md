@@ -447,7 +447,7 @@ Also, check out this fantastic video tutorial @jacksonbates did called ["Your Fi
 
 **Project Leads**: @jacksonbates, (see link below for the full honour roll!)
 
-## 15 -> Chuzzlehunt Part 1 (not to self: need link) 
+## 15 -> Chuzzlehunt Part 1 (note to self: need link) 
 
 **Project Description**: Part coding challenge, part internet adventure, part treasure hunt. 
 
