@@ -12,7 +12,6 @@
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
 
 
 
@@ -198,7 +197,10 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Story**: A Build.to.learn adventure!
  
-**Project Leads**:
+**Project Leads**: @cyclokitty, @cclar
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fkittybot.png?alt=media&token=e326011e-29cb-4c39-b9cd-fa459ffa41fb "Optional title")
+
 
 ## 42 -> [JSY ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
 
