@@ -8,7 +8,7 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
+
 
 
 
@@ -271,6 +271,8 @@ and get automated summaries, right in Slack.
 **Project Story**: A Build.to.learn adventure! I have a feeling this project has a bit of a story, so please let me know anyone from the Pengo team! :)
 
 **Project Leads**: @peterjmartinson, @mtanzillo @kk, @claudgent 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fpengobot.png?alt=media&token=c0f3f192-f705-4143-a02c-300f90325a60 "Optional title")
 
 ## 32 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
 
