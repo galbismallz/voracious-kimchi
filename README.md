@@ -520,7 +520,7 @@ With the amount of people we had working on that project, it’s a miracle anyth
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
-## 9 -> [Momentum (sparta & gang)](http://rawgit.com/Bigghead/Momentum-Clone/master/index.html) 
+## 9 -> [Momentum reverse-engineering](http://rawgit.com/Bigghead/Momentum-Clone/master/index.html) 
 
 **Project Description**: A suave reverse-engineering of the productivity app called Momentum-dash. 
 
