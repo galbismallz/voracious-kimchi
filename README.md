@@ -78,14 +78,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
   
-## 55 -> [SoundReact](http://soundreact.surge.sh/) 
-
-**Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
-
-**Project Story**: Curiosity to build and reaching out to the network for help is the story of this project. I've heard it's going to change a lot as @mahaveer learns more! 
-
-**Project Leads**: @mahaveer, big shout-out to @vera for the help! 
-
+  
 ## 54 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
 **Project Description**: An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension.
@@ -117,6 +110,24 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FWeareORB.png?alt=media&token=548993d7-d1a2-4ac5-bfd4-730ceeaa7099 "Optional title")
 
+## 50 -> [Team Air-Walkers Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
+
+**Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
+
+**Project Story**: A Build.to.learn adventure, from Hong-Kong to Australia! 
+
+**Project Leads**: Team Air-walkers: @che-mok, @matthew_burfield
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fgifbot.png?alt=media&token=4a810de3-04fd-4c56-bd5c-a9591a146cdd "Optional title")
+
+## 55 -> [SoundReact](http://soundreact.surge.sh/) 
+
+**Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
+
+**Project Story**: Curiosity to build and reaching out to the network for help is the story of this project. I've heard it's going to change a lot as @mahaveer learns more! 
+
+**Project Leads**: @mahaveer, big shout-out to @vera for the help! 
+
 ## 51 -> Design Monks Collective 
 
 **Project Description**: A design learning collective/ support group inside the Chingu cohorts. 
@@ -127,15 +138,6 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fdesignmonkschallenge.png?alt=media&token=c5006f33-8739-44a7-899d-3db21a83845d "Optional title")
 
-## 50 -> [Team Air-Walkers Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
-
-**Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
-
-**Project Story**: A Build.to.learn adventure! 
-
-**Project Leads**: Team Air-walkers: @che-monk, @matthew_burfield
-
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fgifbot.png?alt=media&token=4a810de3-04fd-4c56-bd5c-a9591a146cdd "Optional title")
 
 ## 49 -> [FCC Speedrun vol. 2 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
