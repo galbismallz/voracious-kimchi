@@ -10,7 +10,6 @@
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
 
 
 
@@ -368,6 +367,14 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Leads**: 
 
+## 25 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
+
+**Project Description**: An nicely designed implementation of hangman! 
+
+**Project Story**: A pair-programming project adventure! I believe this project was done over a few sessions. 
+
+**Project Leads**: @alanna, @vera
+
 ## 25 -> [Hangman](https://alannal.github.io/Hangman/) 
 
 **Project Description**: An nicely designed implementation of hangman! 
@@ -402,6 +409,8 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 **Project Story**: This project came from the pivot part of the build.to.learn Momentum challenge, and my goodness, what a pivot it is! This is also a good example of the perserverance sometimes necessary in a project. It started as a team project, but as can naturally happen in dev teams, people get busy and drop out of the project. Did that deter @belcurv though? Not a chance. And thank goodness it didn't, because now this helpful chrome extension exists and he learned a ton along the way! 
 
 **Project Leads**: @belcurv, shoutout to @thomas with the design skills!
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fkittybot.png?alt=media&token=e326011e-29cb-4c39-b9cd-fa459ffa41fb "Optional title")
 
 ## 21 -> P1XT Study Guides Support Groups formed 
 
