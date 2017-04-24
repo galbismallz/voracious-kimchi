@@ -37,23 +37,23 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 # Pipeline projects
 
-## 56 -> Devgaido (Formerly Neda)
+## -> Devgaido (Formerly Neda)
 
 **Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. 
 
-## 56 -> Avis nonprofit
+## -> Avis nonprofit
 
 **Sneak preview**: Re-making the website for an Italian blood donor nonprofit. 
 
-## 56 -> Fat Giants startup
+## -> Fat Giants startup
 
 **Sneak preview**: Nutrition chatbot using machine learning. Accepted into Y Combinator's Startup-school. 
 
-## 56 -> Secret project.
+## -> Secret project.
 
 **Sneak preview**: You could say it's for a celebrity... ;p
 
-## 56 -> *** ****** Network 
+## -> *** ****** Network 
 
 **Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say when I first went through the MVP in an office in rural Quebec, I felt like I was riding down a waterfall in the depths of an Indonesian jungle. It was _that_ exciting. 
 
