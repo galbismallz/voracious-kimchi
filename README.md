@@ -33,9 +33,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 # Upcoming projects
 
-## Mysterious social network type project 
 
-Project story: Seeing this project for the first time was took me back to riding down a waterfall in an Indonesian jungle-- the excitement level was that high. 
 
 # Pipeline projects
 
@@ -57,7 +55,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 ## 56 -> *** ****** Network 
 
-**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. 
+**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say when I first went through the MVP in an office in rural Quebec, I felt like I was riding down a waterfall in the depths of an Indonesian jungle. It was _that_ exciting. 
 
 
 # Finished projects
@@ -88,15 +86,13 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: Developed by: @Tan, @Pankaja, @Arthur (project manager) and @CillianBC as part of the Chingu-Belugas.
 
-## 53 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
+## 53 -> Alfred
 
-**Project Description**: 
+**Project Description**: Alfred is a slack bot that will tell you the time anywhere in the world. 
 
-**Project Story**: A Build.to.learn adventure!
+**Project Story**: This Build.to.learn adventure originally had two members working on it, but then the other member went and got a full time developer job mid-project! ;p So Aseem took what was left and went into perserverance mode to bring Afred into the world! Next Aseem wants to pivot the project so that it can pull from Stackoverthrow to help answer javascript questions! 
 
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: @aseem, @sonj7
 
 ## 52 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
