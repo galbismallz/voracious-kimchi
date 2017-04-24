@@ -73,7 +73,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Story**: This project was made by @mtso as a PRACTICE round to prepare for the build.to.learn team project he signed up for. That's what I'm talking about!! 
 
-**Project Leads**: @mtso
+**Project Leads**: @mtso (shout-out to @belcurv and any other rhinos who helped)
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
   
