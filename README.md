@@ -4,7 +4,7 @@
 <br>
 [Photograph by: Laurie-Anne Robert](https://unsplash.com/@laurieannerobert)
 
-“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.” — Pam Slim
+_“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.”_ — Pam Slim
 
 Hi there,  
 
@@ -16,7 +16,7 @@ What you see below are the projects that have been finished. Below the finished 
   
 Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress, and will be improved (as well as missing info be added) as we go along. If I've missed anything (almost guaranteed that I have), please DM me to let me know. 
 
-TL;DR It’s a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out to Freecodecamp for being awesome.  
+TL;DR It’s a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out and thanks to Freecodecamp for being awesome.  
 
 # Finished projects
 
