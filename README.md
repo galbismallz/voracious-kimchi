@@ -513,7 +513,7 @@ We kicked off the first project meeting with…around 20 people! We rallied arou
 
 With the amount of people we had working on that project, it’s a miracle anything got finished. It was a fun ride, though!
 
-**Project Leads**: @trion, the Emoji-Sensai himself!
+**Project Leads**: @trion, the Emoji-Sensai himself! And many others that I need to add in the next edits. 
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Rhinos%20Space%20Shooter.png?alt=media&token=b1a28370-dd73-45bf-8798-8e19a0c5f87d "Optional title")
 
@@ -589,7 +589,7 @@ Posted in the FCC forum [here](https://forum.freecodecamp.com/t/hungry-for-resou
 
 ## 3 -> [Image Filter (pair-programming festival creation)](http://codepen.io/trion/full/bwraZp) 
 
-**Project Description**: This program allows you to add pictures and apply cool filters! Call it... INSTAGRAM FOR CODEPEN! ;p 
+**Project Description**: This program allows you to add pictures and apply cool filters! 
 
 **Project Story**: This illustrious little codepen was created during a pair-programming session many moons ago!
 
@@ -602,7 +602,7 @@ Posted in the FCC forum [here](https://forum.freecodecamp.com/t/hungry-for-resou
 
 **Project Description**: Patatapclone with soundtable looping. 
 
-**Project Story**: This project holds a dear spot in my heart of hearts. At this point Chingu consisted of maybe 3 cohorts (Raccoons, Foxes, Rhinos). Around this time, @jadczakd was just on fire in the cohorts. He was right into the mix learning every day, ignighting discussions and code chats left and right. This man used to involved in the circus - he's got a firey spirit and can juggle like no one's business. 
+**Project Story**: This project holds a dear spot in my heart of hearts. At this point Chingu consisted of (maybe) 3 cohorts (Raccoons, Foxes, Rhinos). Around this time, @jadczakd was just on fire in the cohorts. He was right into the mix learning every day, ignighting discussions and code chats left and right. This man used to involved in the circus - he's got a firey spirit and can juggle like no one's business. 
 
 He'd been working on the patakey app for awhile, and if I recall there was some kind of discussion between him and @vin16 about the app (vin's used to be a hip hop beat maker). 
 
@@ -622,16 +622,11 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 **Project Story**: I'd just made what was an extremely difficult decision (at the time) to pull out of a coding bootcamp. I was going to code full time using FCC and other online resources. I enjoyed the group vibe in the bootcamp precourse so I put a call out in the FreeCodeCamp forum. I was hoping at least 10 or so people would respond to it. About 25 people did, and off we went.
 
 **Publication(s)** <br>
-https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470
-other forum posts? (gsux, ali)
-potentially other medium posts as well? 
+[Here's a nice forum post](https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470)
+ 
 
 
-# Upcoming projects
-
-
-
-# Currently evolving
+# Upcoming projects currently evolving
 
 ## -> Devgaido (Formerly Neda)
 
@@ -651,7 +646,11 @@ potentially other medium posts as well?
 
 ## -> *** ****** Network 
 
-**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say only that I've been through the MVP of this project and it's...wild.  
+**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say only that I've been through the MVP of this project and it's...wild. 
+
+## -> Chuzzlehunt Part 2 
+
+**Sneak preview**:  Coding challenges + online treasure hunt + awesome people. I've heard word it's coming soon. 
 
 
 
