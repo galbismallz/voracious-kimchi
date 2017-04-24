@@ -6,6 +6,15 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
 
 
 
@@ -335,6 +344,8 @@ Spoiler: she got the job! :)
 **Project Story**: So, this project started very much the same way that Timed-up started: by doing a remote team project and finding it hard to coordinate a time to meet. I should also mention that this was in the early days of Chingu when we were crazy and would set up 6 person remote dev teams for build.to.learn projects! Imagine trying to coordinate a meeting time with 6 people from 6 different countries?! haha that's how this project started. The team worked on it for awhile but, like can happen, some members couldn't continue to commit. A few months later @nionata (during a little break from working on his startup Scanned) came back to the repo and brought this beautiful app to the world. 
  
 **Project Leads**: @nionata, shout-out to the build.to.learn momentum team who helped out on the beginning stages of this project (@hoatran1403 and Ejuor Ladev). 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fsundial.png?alt=media&token=5d5af17a-f318-48ae-82fe-f81ba973ced2 "Optional title")
 
 ## 26 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
 
