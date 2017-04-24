@@ -37,7 +37,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 Project story: Seeing this project for the first time was took me back to riding down a waterfall in an Indonesian jungle-- the excitement level was that high. 
 
-## 50 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
+## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
 **Project Description**: A slack-bot tailored made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. The bot collects all the finished goals and posts to the channel once a day.   
 
@@ -47,7 +47,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
   
-## 50 -> [SoundReact](http://soundreact.surge.sh/) 
+## 55 -> [SoundReact](http://soundreact.surge.sh/) 
 
 **Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
 
@@ -55,7 +55,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: @mahaveer, big shout-out to @vera for the help! 
 
-## 50 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
+## 54 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
 **Project Description**: An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension.
 
@@ -63,7 +63,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**: Developed by: @Tan, @Pankaja, @Arthur (project manager) and @CillianBC as part of the Chingu-Belugas.
 
-## 50 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
+## 53 -> [Malcolm-bot (Bot-splashPage-Team-12)](https://hwaiting.github.io/Malcolm-Bot.html) 
 
 **Project Description**: 
 
@@ -73,7 +73,7 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Leads**:
 
-## 50 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
+## 52 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
 **Project Description**: An Online Data Science Magazine Community.
 
@@ -86,7 +86,7 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FWeareORB.png?alt=media&token=548993d7-d1a2-4ac5-bfd4-730ceeaa7099 "Optional title")
 
-## 50 -> Design Monks Collective 
+## 51 -> Design Monks Collective 
 
 **Project Description**: A design learning collective/ support group inside the Chingu cohorts. 
 
@@ -149,7 +149,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 43 -> [Team Tree Lizard's Momentum-dash clone](https://github.com/tlcodes/NewTab) 
+## 44 -> [Team Tree Lizard's Momentum-dash clone](https://github.com/tlcodes/NewTab) 
 
 **Project Description**: A gourmet combination of several FCC projects combined into one: momentum. 
 
@@ -157,7 +157,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 42 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
+## 43 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
 
 **Project Description**: A playful cat slack bot. @bad.kitty! He won't encourage you or help you ever. He will offer you photos of his sarcastic feline friends. Type /help in slack while mentioning @bad.kitty for a list of commands and interactions!
 
@@ -165,7 +165,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
  
 **Project Leads**:
 
-## 41 -> [JSY ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
+## 42 -> [JSY ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
 
 **Project Description**: A Javascript QnA AI bot landing page. 
 
@@ -173,7 +173,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 40 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
+## 41 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
 
 **Project Description**: A Paypal bot landing page clone done by a remote dev team!
 
@@ -181,7 +181,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 39 -> [Team Morning Bunch's Reddit bot](https://github.com/jrepe/reddit_bot) 
+## 40 -> [Team Morning Bunch's Reddit bot](https://github.com/jrepe/reddit_bot) 
 
 **Project Description**: A Reddit-bot for Slack. 
 
@@ -189,7 +189,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 38 -> [Zambabot](https://zamba9.github.io/ZambaBot/) 
+## 39 -> [Zambabot](https://zamba9.github.io/ZambaBot/) 
 
 **Project Description**: A Lions-bot landing page clone.
 
@@ -197,7 +197,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 37 -> [THREE BEARS splash page](https://github.com/fcontreras18/three-bears-splash-page) 
+## 38 -> [THREE BEARS splash page](https://github.com/fcontreras18/three-bears-splash-page) 
 
 **Project Description**: A Paypal bot landing page clone done by a remote dev team. 
 
@@ -205,7 +205,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**:
 
-## 36 -> [Code O' Clock splash page](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
+## 37 -> [Code O' Clock splash page](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
 
 **Project Description**: Code O' Clock: Now you can schedule meetings, code,
 and get automated summaries, right in Slack.
@@ -216,7 +216,7 @@ and get automated summaries, right in Slack.
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fcodeoclock.png?alt=media&token=edf90acc-c152-4be1-95d7-95d46a054047 "Optional title")
 
-## 35 -> [Paypal slack landing page reverse engineering](https://github.com/bigyankarki/PayPal-Splash-Page) 
+## 36 -> [Paypal slack landing page reverse engineering](https://github.com/bigyankarki/PayPal-Splash-Page) 
 
 **Project Description**: A Paypal bot landing page clone.
 
@@ -224,7 +224,7 @@ and get automated summaries, right in Slack.
 
 **Project Leads**:
 
-## 34 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
+## 35 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
 
 **Project Description**: A Lion-bot landing page clone done by a remote dev team.
 
@@ -232,7 +232,7 @@ and get automated summaries, right in Slack.
 
 **Project Leads**:
 
-## 33 -> [Timed-up landing page and slack bot integration](https://timedupchingu.herokuapp.com/splash) 
+## 34 -> [Timed-up landing page and slack bot integration](https://timedupchingu.herokuapp.com/splash) 
 
 **Project Description**: The landing page for the slack-bot integration of @periman's remote team coordination app!
 
@@ -240,7 +240,7 @@ and get automated summaries, right in Slack.
 
 **Project Leads**: @periman
 
-## 32 -> [Pengo bot](https://pengo.herokuapp.com/) 
+## 33 -> [Pengo bot](https://pengo.herokuapp.com/) 
 
 **Project Description**: 1 - Classic Sega arcade game 2 - Infamous German KGB hacker Hans Heinrich Hübner 3 - Your coding buddy on Slack! - -> it brings you quotes like sweet melodies straight from The Pragmatic Programmer! 
 
@@ -248,7 +248,7 @@ and get automated summaries, right in Slack.
 
 **Project Leads**: @peterjmartinson, @mtanzillo @kk, @claudgent 
 
-## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
+## 32 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
 
 **Project Description**: Project Management Site for the Game-Dev Project
 
@@ -262,7 +262,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Game-dev%20Tool.png?alt=media&token=e3433831-eef3-46fe-850e-bd7288bc98f9 "Optional title")
 
-## 30 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
+## 31 -> [Chingu's website Revamp](https://chingu-cohorts.github.io/chingu-directory/) 
 
 **Project Description**: 
 
@@ -272,7 +272,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchinguwebsite.png?alt=media&token=ffde9cee-5275-47d6-add5-379fb0de36c4 "Optional title")
 
-## 29 -> [Timed-up web-app](https://timedupchingu.herokuapp.com/login) 
+## 30 -> [Timed-up web-app](https://timedupchingu.herokuapp.com/login) 
 
 **Project Description**: 
 
@@ -282,7 +282,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Ftimedup.png?alt=media&token=dc594e99-1ff9-4029-9e2f-197d16680405 "Optional title")
 
-## 28 -> Chingu's logo by Kenneth 
+## 29 -> Chingu's logo by Kenneth 
 
 **Project Description**: The cohort's new logo! 
 
@@ -292,7 +292,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchingulogo.png?alt=media&token=1a1072c7-cb63-4615-9b26-54f4ca12b05a "Optional title")
 
-## 27 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
+## 28 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
 
 **Project Description**: A Hacker-rank challenge. 
 
@@ -302,7 +302,7 @@ Spoiler: she got the job! :)
 
 **Project Leads**: @p1xt & the super helpful Red-Pandas!
 
-## 26 -> [Sundial](https://sundialapp.herokuapp.com/) 
+## 27 -> [Sundial](https://sundialapp.herokuapp.com/) 
 
 **Project Description**: Simple session based web app that allows remote teams to find meeting availability across multiple time zones!
 
@@ -310,7 +310,7 @@ Spoiler: she got the job! :)
  
 **Project Leads**: @nionata, shout-out to the build.to.learn momentum team who helped out on the beginning stages of this project (@hoatran1403 and Ejuor Ladev). 
 
-## 25 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
+## 26 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
 
 **Project Description**: Need to look up something on MDN quick and easy or just want to share an MDN reference with a colleague ? MDNBot has you covered. This app doesn't require any payments, doesn't send you emails and doesn't store any private user information. All you need to start using it is to install it in your Slack team.
 
@@ -325,7 +325,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Leads**: 
 
-## 24 -> [Hangman](https://alannal.github.io/Hangman/) 
+## 25 -> [Hangman](https://alannal.github.io/Hangman/) 
 
 **Project Description**: An nicely designed implementation of hangman! 
 
@@ -333,7 +333,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 **Project Leads**: @alanna, @vera
 
-## 23 -> [Chingu FCC Speedrun Challenge vol. 1 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
+## 24 -> [Chingu FCC Speedrun Challenge vol. 1 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
 **Project Description**: Get out of your comfort-zone and get those FreeCodeCamp projects done! 
 
@@ -344,7 +344,7 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 **Project Leads**: @p1xt, @jenovs, @pankaja, @fiftyfivebells, @jenovs, @bolu 
 
-## 22 -> [The Gang of Four Lions present the Lion-bot](https://lion-bot.herokuapp.com/) 
+## 23 -> [The Gang of Four Lions present the Lion-bot](https://lion-bot.herokuapp.com/) 
 
 **Project Description**: Do you and your team use Slack? Now you can get some good jokes delivered to you right inside the app. The Lion-bot has compiled jokes from more than 1 website, and it can send you a joke whenever you ask it to.
 
@@ -352,7 +352,7 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 **Project Leads**: @alexmcleod01, @logachev, @michaelblood, @josh5231
 
-## 21 -> [Dev-Dash](https://chrome.google.com/webstore/detail/dev-dash/dgkmjidcaelocfmnhlmeimmbaljgjfhm) 
+## 22 -> [Dev-Dash](https://chrome.google.com/webstore/detail/dev-dash/dgkmjidcaelocfmnhlmeimmbaljgjfhm) 
 
 **Project Description**: Dev-dash is a Chrome extension that overrides the default new-tab behavior. In place of the default new-tab behavior, dev-dash presents the user with an at-a-glance overview of a set of tracked GitHub repositories. The extension is designed to help small project teams keep track of team members' activity without having to log into GitHub and comb through a repository's history. It displays data related to commits, issues, comments, pull requests and merges.
 
@@ -360,7 +360,7 @@ Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolut
 
 **Project Leads**: @belcurv, shoutout to @thomas with the design skills!
 
-## 20 -> P1XT Study Guides Support Groups formed 
+## 21 -> P1XT Study Guides Support Groups formed 
 
 **Project Description**: A support/ study group for those working through the infamous P1XT Study guides. 
 
@@ -371,7 +371,7 @@ Here are some [slides](https://docs.google.com/presentation/d/1EjI1UF16_c1eTrkZM
 
 **Project Leads**: @indyrob + @collin
 
-## 19 -> [Chingography](https://github.com/mmhansen/chingogprahy) 
+## 20 -> [Chingography](https://github.com/mmhansen/chingogprahy) 
 
 **Project Description**: A slick intros library for member's intros (aka coding history, interests, etc) built with React. 
 
@@ -385,7 +385,7 @@ _"You will never really be ready for your first job. You will fail. I forgot whe
 
 **Project Leads**: @mmhansen, @mozar 
 
-## 18 -> [Team General Meerkats Momentum](https://general-meerkats.github.io/meerkat_momentum/) 
+## 19 -> [Team General Meerkats Momentum](https://general-meerkats.github.io/meerkat_momentum/) 
 
 **Project Description**: This is the Tesla of Momentum clones right here. Slick, well-designed and just makes you feel good. 
 
@@ -401,7 +401,7 @@ I'm going to go ahead and leave @belcurv's articles inspired by his work on this
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fbelcurvmomentum.png?alt=media&token=dce15c1b-2905-417e-9bfc-9b0f3bb91efc "Optional title")
 
-## 17 -> ChinguSort
+## 18 -> ChinguSort
 
 **Project Description**: A recommendation system using Machine Learning to create optimal groupings for the Chingu cohorts. 
 
@@ -416,7 +416,7 @@ Check out @trion's article on his experience called [Sorting Cohort applicants i
 
 **Project Leads**: @trion
 
-## 16 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
+## 17 -> [New Year Video](https://www.youtube.com/watch?v=QQ82dreEaXU) 
 
 **Project Description**: Something like 15-20 different people from different countries wishing everyone a Happy New Year (in English and often in their native language as well). It's a showcase of the diversity of the Chingus. 
 
@@ -426,7 +426,7 @@ Check out @trion's article on his experience called [Sorting Cohort applicants i
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FOansky.png?alt=media&token=e3b54b89-bc99-466c-8a3c-d39b14cda373 "Optional title")
 
-## 15 -> [Pair-board](http://pairboard.surge.sh/) 
+## 16 -> [Pair-board](http://pairboard.surge.sh/) 
 
 **Project Description**: Pair programming connector for Freecodecamp. 
 
@@ -439,7 +439,7 @@ Also, check out this fantastic video tutorial @jacksonbates did called ["Your Fi
 
 **Project Leads**: @jacksonbates, (see link below for the full honour roll!)
 
-## 14 -> [Chuzzlehunt Need link - NEED LINK](#) 
+## 15 -> [Chuzzlehunt Need link - NEED LINK](#) 
 
 **Project Description**: Part coding challenge, part internet adventure, part treasure hunt. 
 
@@ -449,7 +449,7 @@ We partnered this project with another project - the New Years video - and the r
 
 **Project Leads**: @trion 
 
-## 13 -> [Kornil's Favicons begin](https://github.com/Kornil/Red-Panda-FCC-Favicon) 
+## 14 -> [Kornil's Favicons begin](https://github.com/Kornil/Red-Panda-FCC-Favicon) 
 
 **Project Description**: Animal favicons for each Chingu cohort. 
 
@@ -461,7 +461,7 @@ Since then, it's become a tradition: new cohort = new kornil favicon!
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fanimals.png?alt=media&token=45524517-1f8a-4465-b7e2-639f854e9d5c "Optional title")
 
-## 12 -> Florinpop's wild week 
+## 13 -> Florinpop's wild week 
 
 **Project Story**:The infamous Week of Florinpop back in the Meerkat days! During this week, @florinpop rampaged through what seemed like 1200 projects. In reality, he built a single player football game (x-ball), a multiplayer football game (x-ball), a chat-application and a snakemaze-type game. Oh, and he also had his multiplayer version of x-ball showcased on a famous Javascript youtube channel (in picture below).  
 
@@ -473,7 +473,7 @@ No joke, people mentioned florinpop and kornil on the post-cohort survey comment
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fflorinpopsglory.png?alt=media&token=9f7b861b-6cef-4b22-85f7-ad9a27fcb75a "Optional title")
 
-## 222322 -> [User-name Generator](http://trion.me/CodingChallenges/Tools/UsernameGenerator/) 
+## 12 -> [User-name Generator](http://trion.me/CodingChallenges/Tools/UsernameGenerator/) 
 
 **Project Description**: This splendid little functionality generates groovy usernames. We should probably start using this for build.to.learn team project names... ;p
 
@@ -495,7 +495,7 @@ No joke, people mentioned florinpop and kornil on the post-cohort survey comment
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fpear.png?alt=media&token=6eeb6b75-763b-420a-9e78-3503377b4d80 "Optional title")
 
 
-## 5 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
+## 10 -> [RAMBUNCTIOUS RHINOS SPACE SHOOTER](http://trion.me/Space-Shooter/)
 
 **Project Description**: Reverse-engineering of the old-school arcade game Space Invaders!
 
@@ -614,8 +614,6 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470
 other forum posts? (gsux, ali)
 potentially other medium posts as well? 
-
-**Project Leads**:
 
 
 
