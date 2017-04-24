@@ -77,9 +77,10 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Description**: An Online Data Science Magazine Community.
 
-**Project Story**: 
+**Project Story**: This is just Kenneth doin' his thing - creating realms with an exquisite design touch. We are Orb was just started, but if Kenneth's at the helm, I've got confidence that it's going to be great. He's already got a feature article from @trion dropping wisdom on [Evolution Strategies for Reinforcement Learning](https://medium.com/we-are-orb/reinforcement-learning-using-evolution-strategies-259653a2166d).  
 
 **Publication(s)** <br> 
+Check out the first article [Introducing "We are Orb Community".](https://medium.com/we-are-orb/introducing-we-are-orb-community-4c0311b3e9ff)
 
 **Project Leads**: Kenneth Amanfo Junior (@amanfojr)
 
@@ -112,6 +113,7 @@ Project story: Seeing this project for the first time was took me back to riding
 **Project Story**: This is the second run we've done with the FCC Speedrun (currently ongoing). For this run, there's around 80 people Speedrunnin' through the FreeCodeCamp projects! 
 
 **Publication(s)** <br> 
+Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), where you can find articles of people doing the most recent Speedrun (started last week). 
 
 **Project Leads**: Challenge designed by @p1xt
 
@@ -119,29 +121,23 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Description**: This is essentially the Library of Alexandria for the Chingu cohorts, but instead of books, it houses skills. The offical description: whobot will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
-**Project Story**: 
+**Project Story**: To be honest, I'm not sure how the initial vision of this wonderful creation came to be. @peet or @jay please let me know and I'll add it here!
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @peet, @belcurv 
 
 ## 47 -> [Team Splash-Master paypal bot landing page clone](https://andbostick.github.io/) 
 
-**Project Description**: 
+**Project Description**: A Paypal bot landing page clone!
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: 
 
 ## 46 -> [Dork trivia bot](https://antonderegt.github.io/roxean-bot-landing-page/) 
 
 **Project Description**: Hi, I'm Dork and I'm a DORK! I love to play the games trivia. Just call my name and I'll throw a dorky question at you, let's see how dorky you are.
 
 **Project Story**: Build.to.learn adventure! 
-
-**Publication(s)** <br> 
 
 **Project Leads**: 
 
@@ -151,18 +147,6 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Story**: Build.to.learn voyage!
 
-**Publication(s)** <br> 
-
-**Project Leads**:
-
-## 44 -> [Hypnoyanova bot](https://github.com/triple-botspresso/trivia-bot) 
-
-**Project Description**: 
-
-**Project Story**: 
-
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 43 -> [Team Tree Lizard's Momentum-dash clone](https://github.com/tlcodes/NewTab) 
@@ -171,8 +155,6 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Story**: A Build.to.learn journey!
 
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 42 -> [Kittybot](https://github.com/Cyclokitty/badkittybot) 
@@ -180,9 +162,7 @@ Project story: Seeing this project for the first time was took me back to riding
 **Project Description**: A playful cat slack bot. @bad.kitty! He won't encourage you or help you ever. He will offer you photos of his sarcastic feline friends. Type /help in slack while mentioning @bad.kitty for a list of commands and interactions!
 
 **Project Story**: A Build.to.learn adventure!
-
-**Publication(s)** <br> 
-
+ 
 **Project Leads**:
 
 ## 41 -> [JSY ](https://himanshupnt.github.io/Jsy-bot-page/index.html) 
@@ -191,37 +171,29 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 40 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
 
-**Project Description**: A Paypal bot landing page clone done by a remote dev team. 
+**Project Description**: A Paypal bot landing page clone done by a remote dev team!
 
 **Project Story**: A Build.to.learn adventure!
-
-**Publication(s)** <br> 
 
 **Project Leads**:
 
 ## 39 -> [Team Morning Bunch's Reddit bot](https://github.com/jrepe/reddit_bot) 
 
-**Project Description**: 
+**Project Description**: A Reddit-bot for Slack. 
 
 **Project Story**: A Build.to.learn adventure!
-
-**Publication(s)** <br> 
 
 **Project Leads**:
 
 ## 38 -> [Zambabot](https://zamba9.github.io/ZambaBot/) 
 
-**Project Description**: 
+**Project Description**: A Lions-bot landing page clone.
 
 **Project Story**: A Build.to.learn adventure!
-
-**Publication(s)** <br> 
 
 **Project Leads**:
 
@@ -231,8 +203,6 @@ Project story: Seeing this project for the first time was took me back to riding
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 36 -> [Code O' Clock splash page](https://rebeccamorgan.github.io/codeoclock-slackbot/#usage) 
@@ -241,8 +211,6 @@ Project story: Seeing this project for the first time was took me back to riding
 and get automated summaries, right in Slack.
 
 **Project Story**: A Build.to.learn PIVOT adventure!
-
-**Publication(s)** <br> 
 
 **Project Leads**:
 
@@ -254,8 +222,6 @@ and get automated summaries, right in Slack.
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 34 -> [Reverse-engineering of the Lion-bot splash page](https://jeffbautista.github.io/jv-slack-bot/) 
@@ -264,29 +230,23 @@ and get automated summaries, right in Slack.
 
 **Project Story**: A Build.to.learn adventure!
 
-**Publication(s)** <br> 
-
 **Project Leads**:
 
 ## 33 -> [Timed-up landing page and slack bot integration](https://timedupchingu.herokuapp.com/splash) 
 
-**Project Description**: 
+**Project Description**: The landing page for the slack-bot integration of @periman's remote team coordination app!
 
-**Project Story**:
+**Project Story**: This project just keeps getting better and better. 
 
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: @periman
 
 ## 32 -> [Pengo bot](https://pengo.herokuapp.com/) 
 
-**Project Description**: 
+**Project Description**: 1 - Classic Sega arcade game 2 - Infamous German KGB hacker Hans Heinrich Hübner 3 - Your coding buddy on Slack! - -> it brings you quotes like sweet melodies straight from The Pragmatic Programmer! 
 
-**Project Story**: A Build.to.learn adventure!
+**Project Story**: A Build.to.learn adventure! I have a feeling this project has a bit of a story, so please let me know anyone from the Pengo team! :)
 
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: @peterjmartinson, @mtanzillo @kk, @claudgent 
 
 ## 20 -> [GAME-DEV PROJECT MANAGEMENT WEB-APP](https://chingu-game-dev.herokuapp.com/) 
 
@@ -308,9 +268,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Story**:
 
-**Publication(s)** <br> 
-
-**Project Leads**: @kornil
+**Project Leads**: @kornil, thanks to the many people who helped with different aspects of this project! 
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchinguwebsite.png?alt=media&token=ffde9cee-5275-47d6-add5-379fb0de36c4 "Optional title")
 
@@ -320,9 +278,7 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 **Project Story**:
 
-**Publication(s)** <br> 
-
-**Project Leads**:
+**Project Leads**: @periman, special thanks to @joey-codes and others who helped! 
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Ftimedup.png?alt=media&token=dc594e99-1ff9-4029-9e2f-197d16680405 "Optional title")
 
@@ -338,21 +294,21 @@ At the time of writing the projects just kicked off… what.a.time.to.be.alive!
 
 ## 27 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
 
-**Project Description**: 
+**Project Description**: A Hacker-rank challenge. 
 
-**Project Story**:
+**Project Story**: So, @ali had a job interview coming up and she was asking the Red-Pandas for some tips/ advice. What did the Pandas do? Support/ help/ tips/ and @p1xt even made this set of challenges for @ali (and others) to prepare for the job! 
 
-**Publication(s)** <br> 
+Spoiler: she got the job! :) 
 
-**Project Leads**: 
+**Project Leads**: @p1xt & the super helpful Red-Pandas!
 
 ## 26 -> [Sundial](https://sundialapp.herokuapp.com/) 
 
 **Project Description**: Simple session based web app that allows remote teams to find meeting availability across multiple time zones!
 
-**Project Story**: 
+**Project Story**: So, this project started very much the same way that Timed-up started: by doing a remote team project and finding it hard to coordinate a time to meet. I should also mention that this was in the early days of Chingu when we were crazy and would set up 6 person remote dev teams for build.to.learn projects! Imagine trying to coordinate a meeting time with 6 people from 6 different countries?! haha that's how this project started. The team worked on it for awhile but, like can happen, some members couldn't continue to commit. A few months later @nionata (during a little break from working on his startup Scanned) came back to the repo and brought this beautiful app to the world. 
  
-**Project Leads**: @nionata, shout-out to the build.to.learn momentum team who helped out on the beginning stages of this project!
+**Project Leads**: @nionata, shout-out to the build.to.learn momentum team who helped out on the beginning stages of this project (@hoatran1403 and Ejuor Ladev). 
 
 ## 25 -> [MDNbot](https://vejather.github.io/mdn-bot-landing-page/) 
 
@@ -371,23 +327,22 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 
 ## 24 -> [Hangman](https://alannal.github.io/Hangman/) 
 
-**Project Description**: 
+**Project Description**: An nicely designed implementation of hangman! 
 
-**Project Story**: A pair-programming project adventure! 
+**Project Story**: A pair-programming project adventure! I believe this project was done over a few sessions. 
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @alanna, @vera
 
 ## 23 -> [Chingu FCC Speedrun Challenge vol. 1 designed by P1XT](https://github.com/P1xt/chingu-fcc-speedrun-challenge) 
 
-**Project Description**: 
+**Project Description**: Get out of your comfort-zone and get those FreeCodeCamp projects done! 
 
-**Project Story**:
+**Project Story**: So, @jenovs decided to challenge himself by doing the Speedrun in React (he was at the time practicing that). The thing is, he finished the entire FCC Curriculumn in 24 days during this Speedrun...and got his FCC account banned! haha He went so fast his account was flagged for cheating. Speedrunnin'!! 
 
 **Publication(s)** <br> 
+Here is @jenovs [finished Speedrun](https://fcc-speedrun.jenovs.com/) -- absolutely exquisite! 
 
-**Project Leads**: 
+**Project Leads**: @p1xt, @jenovs, @pankaja, @fiftyfivebells, @jenovs, @bolu 
 
 ## 22 -> [The Gang of Four Lions present the Lion-bot](https://lion-bot.herokuapp.com/) 
 
@@ -492,9 +447,7 @@ Also, check out this fantastic video tutorial @jacksonbates did called ["Your Fi
 
 We partnered this project with another project - the New Years video - and the rest is history. I've heard whispers that the Chuzzlehunt Part 2 is in the works. And what a coincidence, we've also go the second video in the works... :)
 
-**Publication(s)** <br> 
-
-**Project Leads**: 
+**Project Leads**: @trion 
 
 ## 13 -> [Kornil's Favicons begin](https://github.com/Kornil/Red-Panda-FCC-Favicon) 
 
@@ -528,7 +481,7 @@ No joke, people mentioned florinpop and kornil on the post-cohort survey comment
 
 **Publication(s)** <br> 
 
-**Project Leads**: @trion, @sagark
+**Project Leads**: @sagark, @trion 
 
 
 ## 11 -> [Pear](https://github.com/mmhansen/pear) 
