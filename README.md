@@ -41,32 +41,6 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 “We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.” — P. Slim
 
-# Upcoming projects
-
-
-
-# Currently evolving
-
-## -> Devgaido (Formerly Neda)
-
-**Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. "Gaido" means "guide" in Japanese.
-
-## -> Avis nonprofit
-
-**Sneak preview**: Re-designing and building the website for an Italian blood donor nonprofit. 
-
-## -> Fat Giants startup
-
-**Sneak preview**: Nutrition chatbot using machine learning that ultimately aims to lower food waste in the world. Accepted into Y Combinator's online Startup-school. 
-
-## -> Secret project
-
-**Sneak preview**: We'll drop a little preview when it has progressed a little further. 
-
-## -> *** ****** Network 
-
-**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say only that I've been through the MVP of this project and it's...wild.  
-
 
 # Finished projects
 
@@ -676,6 +650,31 @@ other forum posts? (gsux, ali)
 potentially other medium posts as well? 
 
 
+# Upcoming projects
+
+
+
+# Currently evolving
+
+## -> Devgaido (Formerly Neda)
+
+**Sneak preview**: Personalized learning paths so you can stop feeling overwhelmed. "Gaido" means "guide" in Japanese.
+
+## -> Avis nonprofit
+
+**Sneak preview**: Re-designing and building the website for an Italian blood donor nonprofit. 
+
+## -> Fat Giants startup
+
+**Sneak preview**: Nutrition chatbot using machine learning that ultimately aims to lower food waste in the world. Accepted into Y Combinator's online Startup-school. 
+
+## -> Secret project
+
+**Sneak preview**: We'll drop a little preview when it has progressed a little further. 
+
+## -> *** ****** Network 
+
+**Sneak preview**:  Also a secret, it's potentially weeks away from being finished so I don't want to ruin the surprise. I will say only that I've been through the MVP of this project and it's...wild.  
 
 
 
