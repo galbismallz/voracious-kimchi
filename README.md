@@ -14,7 +14,7 @@ A project voyage.
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
+
 
 
 
@@ -205,6 +205,8 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 **Project Story**: A Build.to.learn adventure!
 
 **Project Leads**:
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fjsy.png?alt=media&token=aa5f33bf-5fdd-4af6-9cf4-bb5aa5761652 "Optional title")
 
 ## 41 -> [Team Creative Style Sisters (CSS) Paypal landing page clone](https://github.com/creative-style-sisters/paypalsplash) 
 
