@@ -55,7 +55,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 ## -> Fat Giants startup
 
-**Sneak preview**: Nutrition chatbot using machine learning. Accepted into Y Combinator's Startup-school. 
+**Sneak preview**: Nutrition chatbot using machine learning that ultimately aims to lower food waste in the world. Accepted into Y Combinator's online Startup-school. 
 
 ## -> Secret project.
 
