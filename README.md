@@ -8,7 +8,11 @@
 
 ![Alt text]( "Optional title")
 
+![Alt text]( "Optional title")
 
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
 
 
 
@@ -91,9 +95,11 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 **Project Description**: Alfred is a slack bot that will tell you the time anywhere in the world. 
 
-**Project Story**: This Build.to.learn adventure originally had two members working on it, but then the other member went and got a full time developer job mid-project! ;p So Aseem took what was left and went into perserverance mode to bring Afred into the world! Next Aseem wants to pivot the project so that it can pull from Stackoverthrow to help answer javascript questions! 
+**Project Story**: This Build.to.learn adventure originally had two members working on it, but then @soni7raj went and got a full time developer job mid-project! ;p So Aseem took what was left and went into perserverance mode to bring Afred into the world! Next Aseem wants to pivot the project so that it can pull from Stackoverthrow to help answer javascript questions! 
 
-**Project Leads**: @aseem, @sonj7
+**Project Leads**: @aseem, @soni7raj
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Falfred.png?alt=media&token=6a2f2e3f-a6d8-4d89-8fe9-eb45a6eb24df "Optional title")
 
 ## 52 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
