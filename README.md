@@ -249,7 +249,7 @@ and get automated summaries, right in Slack.
 
 **Project Description**: Project Management Site for the Game-Dev Project
 
-**Project Story**: So… @kimkwanka reached out about potentially creating a game-dev project. I thought it was a fantastic idea, and Kim went on set it up. 
+**Project Story**: So… @kimkwanka reached out once about potentially creating a game-dev project. I thought it was a fantastic idea, and Kim graciously said she'd set it up. 
 
 Little did I know, (@kimkwanka is an absolute *legend*) a few weeks later there would be 80+ people split amongst 21 teams and A FULL BLOWN PROJECT MANAGEMENT TOOL WITH SLACK INTEGRATION built and implemented. 
 
@@ -289,7 +289,7 @@ At the time of writing the projects recently kicked off… what.a.time.to.be.ali
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fchingulogo.png?alt=media&token=1a1072c7-cb63-4615-9b26-54f4ca12b05a "Optional title")
 
-## 28 -> [Chingu Challenge made by P1XT to help @ali with her job interview - GET LINK](#) 
+## 28 -> Chingu Challenge made by P1XT to help @ali with her job interview (note to self: obtain url) 
 
 **Project Description**: A Hacker-rank challenge. 
 
@@ -446,7 +446,7 @@ Also, check out this fantastic video tutorial @jacksonbates did called ["Your Fi
 
 **Project Leads**: @jacksonbates, (see link below for the full honour roll!)
 
-## 15 -> [Chuzzlehunt Need link - NEED LINK](#) 
+## 15 -> Chuzzlehunt Part 1 (not to self: need link) 
 
 **Project Description**: Part coding challenge, part internet adventure, part treasure hunt. 
 
@@ -529,7 +529,10 @@ With the amount of people we had working on that project, it’s a miracle anyth
 
 **Project Description**: Campfire-stories captures and showcases the stories of people coding around the world. Like Humans of New York, but for devs.  
 
-**Project Story**: "this is why I code" comment on the forum post
+**Project Story**: This was our first major project. Because it was so early on, we didn't have any past projects to look back at and say "yep, we know we can do this." We really had no idea. It was a complete shot in the dark. How we got the spark to start it is a tale for another time, but in short: enough people got excited about it that @codejunky and @mmhansen decided to partner up and pair program for 40+ hours over a few months and learned React, Redux and MongoDB from scratch. @alecia and I worked on generating the content, and a whole design team formed to work on that aspect. Next thing we know the site's live and I knew for sure we were onto something interesting. 
+
+Here's a comment someone left about this project: _"Projects like these remind people like me why we got into coding in the first place. It is nothing short of inspirational and motivational. This is absolutely phenomenal and a worthy cause. I wish you much success in your endeavor. Will sure check in and see how its coming along."_ 
+
 
 **Publication(s)** <br> 
 @alecia's article called ["Initiating a conversation is terrifying"](https://medium.com/chingu/initiating-a-conversation-is-terrifying-b4dd922640b3) about her experience working on this project as an introvert.
